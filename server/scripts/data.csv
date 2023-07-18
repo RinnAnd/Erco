@@ -1,0 +1,1001 @@
+system_id,system_name,location,inverter_brand,panel_brand,panel_power,panel_quantity,installed_power,current_generation,total_generation
+1,Cole-Glover,258 Saint Paul Lane,Enphase,LG,560,44,24640,478,28837
+2,"Thompson, Douglas and Moen",94 Moose Point,SMA,Jinko,470,16,7520,460,1913
+3,"Koelpin, Funk and Gerlach",16 Loftsgordon Center,SMA,LG,560,40,22400,668,77346
+4,Yost-Skiles,0551 Sycamore Junction,Enphase,Jinko,470,36,16920,415,64616
+5,Hane-Schinner,8 Kenwood Court,SMA,Canadian Solar,560,39,21840,438,89372
+6,Renner-Kertzmann,4156 David Court,Enphase,LG,560,48,26880,997,37414
+7,Gulgowski-Goldner,4 Namekagon Point,SMA,Canadian Solar,470,34,15980,779,66165
+8,"Dibbert, Doyle and Bogisich",3 Elka Pass,Enphase,Jinko,470,32,15040,291,50798
+9,Hyatt and Sons,22 Division Plaza,Fronius,SunPower,470,32,15040,693,91744
+10,Lindgren-Williamson,426 Sunfield Way,SMA,Jinko,470,1,470,891,10207
+11,Kuvalis LLC,28 Bartillon Pass,Fronius,Canadian Solar,560,31,17360,661,88894
+12,Sauer-Senger,9798 Hansons Plaza,Enphase,Canadian Solar,470,15,7050,660,77512
+13,Larson-Pouros,8 5th Court,Enphase,Jinko,470,45,21150,704,94147
+14,"Sipes, Tromp and Hane",4832 Eagle Crest Parkway,Fronius,Canadian Solar,470,18,8460,69,59928
+15,"West, Marks and Hoeger",083 Sycamore Lane,Fronius,SunPower,560,26,14560,98,50513
+16,Rempel Inc,42039 Sunbrook Terrace,SMA,Canadian Solar,470,13,6110,246,96668
+17,Durgan and Sons,67680 Kings Center,SMA,SunPower,470,30,14100,447,88180
+18,Muller-Mraz,532 Victoria Drive,Fronius,Jinko,560,23,12880,561,57224
+19,Skiles-Koelpin,2 Eastwood Parkway,Enphase,Jinko,560,29,16240,745,33123
+20,Casper Inc,1850 Banding Junction,Enphase,Jinko,470,5,2350,683,58645
+21,Jacobson and Sons,77479 Lakewood Gardens Hill,Enphase,Jinko,470,24,11280,414,30922
+22,"Leuschke, Barton and Sipes",4 Stang Hill,Fronius,Jinko,470,36,16920,769,22070
+23,Heller Inc,069 Bonner Point,Fronius,Canadian Solar,470,4,1880,766,26301
+24,"Gutkowski, Nitzsche and Hamill",01233 Golf Course Place,Enphase,LG,560,42,23520,704,78634
+25,"Zemlak, Schaden and Mayer",27 Brickson Park Court,Enphase,Canadian Solar,560,41,22960,505,2604
+26,"Schmeler, Gibson and Padberg",7 Melby Crossing,Enphase,SunPower,560,31,17360,755,28942
+27,Ledner LLC,841 Gerald Park,SMA,Jinko,560,24,13440,273,47127
+28,Will Group,80 Shelley Road,Fronius,LG,560,19,10640,775,45405
+29,McDermott Inc,06138 Tennessee Parkway,Enphase,Jinko,560,17,9520,333,60284
+30,"Schuppe, Schulist and Denesik",9 Surrey Center,Enphase,LG,470,41,19270,636,41578
+31,D'Amore LLC,19 Crescent Oaks Drive,Enphase,Jinko,560,6,3360,868,37718
+32,Nienow-Kovacek,6 Brentwood Alley,Fronius,Jinko,560,2,1120,445,97812
+33,Okuneva LLC,981 Myrtle Center,Enphase,Canadian Solar,470,18,8460,625,42870
+34,Maggio-Friesen,8141 Summerview Avenue,Fronius,LG,560,9,5040,94,59018
+35,"Feest, Brakus and Hegmann",83 Hooker Junction,SMA,Canadian Solar,470,11,5170,592,27680
+36,Bosco-Wehner,5 Cascade Circle,Enphase,SunPower,560,3,1680,166,28461
+37,Breitenberg-Cassin,211 Knutson Way,Enphase,SunPower,470,34,15980,490,46869
+38,Muller-Bechtelar,8 Hauk Parkway,Enphase,LG,560,20,11200,7,45424
+39,"Upton, Hickle and Sipes",59568 Truax Drive,Enphase,SunPower,470,18,8460,127,17628
+40,Zulauf LLC,42343 Cody Terrace,SMA,LG,560,29,16240,402,17664
+41,Hilpert-Aufderhar,7 Sommers Trail,Fronius,LG,470,17,7990,401,42795
+42,Miller and Sons,848 Jana Junction,SMA,SunPower,470,37,17390,147,26148
+43,"Zemlak, Bartoletti and Rutherford",631 Bluestem Place,Enphase,SunPower,560,22,12320,870,86892
+44,"D'Amore, Quitzon and Kilback",09 Derek Place,Enphase,LG,470,11,5170,692,11001
+45,"Schaefer, Nitzsche and Dickinson",1 Sherman Park,SMA,LG,470,36,16920,671,71891
+46,"Swaniawski, O'Keefe and Runolfsson",62 Atwood Alley,SMA,SunPower,470,16,7520,160,39677
+47,Smitham-Batz,303 Menomonie Hill,Enphase,LG,560,37,20720,584,90383
+48,Will-Volkman,6 Fisk Circle,SMA,Canadian Solar,470,3,1410,213,94785
+49,Kunde Group,3358 Garrison Road,Fronius,Jinko,470,31,14570,225,94449
+50,"Dare, Pouros and Marquardt",696 Nelson Crossing,SMA,Canadian Solar,560,23,12880,713,51789
+51,Ernser-Wehner,326 Holmberg Drive,Enphase,LG,560,44,24640,219,94027
+52,Kerluke-Corwin,55983 Dawn Pass,Fronius,SunPower,560,48,26880,559,4712
+53,Borer-Kutch,13279 Stang Hill,SMA,Canadian Solar,470,22,10340,313,10133
+54,Schultz Group,13672 Mallard Avenue,SMA,Jinko,560,41,22960,771,97400
+55,Hessel LLC,30 Pawling Crossing,SMA,Canadian Solar,470,1,470,343,58839
+56,Ritchie-Hilll,96098 Claremont Road,Enphase,Canadian Solar,470,23,10810,65,56774
+57,Romaguera LLC,06 Coolidge Street,Fronius,Canadian Solar,470,1,470,693,34074
+58,Schimmel LLC,61872 Annamark Point,Fronius,LG,470,32,15040,519,1216
+59,Price Group,56 Kingsford Drive,Fronius,Jinko,560,9,5040,627,29260
+60,Wuckert-Johnson,1738 Cardinal Pass,Fronius,Canadian Solar,560,33,18480,557,87832
+61,Rempel-Thiel,52681 Ryan Avenue,Fronius,LG,560,23,12880,952,79251
+62,Grant LLC,4 Glacier Hill Terrace,Fronius,LG,470,30,14100,789,11835
+63,"Bartell, Zieme and Langworth",59769 Rusk Parkway,Fronius,SunPower,560,46,25760,349,68537
+64,"Harris, Hettinger and Ferry",9603 Magdeline Junction,Enphase,Canadian Solar,470,13,6110,586,37342
+65,"Monahan, DuBuque and Marvin",1 Corben Way,Fronius,Jinko,560,21,11760,866,13506
+66,"Friesen, Emard and Ward",18454 Burning Wood Street,Fronius,SunPower,560,13,7280,942,25896
+67,"Keebler, Hane and Lindgren",51416 Dawn Point,Enphase,Jinko,470,14,6580,573,97508
+68,Barton-Wisoky,49395 Waubesa Junction,SMA,LG,470,11,5170,996,42083
+69,Oberbrunner LLC,651 Farwell Hill,Fronius,LG,470,28,13160,844,85087
+70,"Legros, Cassin and Mohr",330 Trailsway Parkway,Enphase,Jinko,470,25,11750,892,93583
+71,Predovic-Sawayn,89051 Arapahoe Parkway,Enphase,Canadian Solar,470,9,4230,751,28863
+72,"Jerde, Braun and Crist",53 Lerdahl Trail,SMA,Jinko,560,25,14000,919,70286
+73,"Okuneva, Romaguera and Schultz",6160 Hollow Ridge Crossing,Enphase,LG,470,31,14570,875,69496
+74,Blanda-Kozey,2539 Shelley Junction,Fronius,SunPower,470,42,19740,750,81997
+75,"Koepp, Witting and Larkin",7 Ryan Circle,SMA,SunPower,560,13,7280,113,78162
+76,"Mayer, Walsh and Turcotte",72 Rutledge Place,Fronius,Canadian Solar,560,42,23520,119,50161
+77,"Balistreri, Graham and Schneider",70616 Northwestern Center,Fronius,SunPower,470,22,10340,918,99592
+78,"Kulas, Abernathy and Boyle",192 Dottie Parkway,Enphase,SunPower,470,39,18330,553,37298
+79,"Gutkowski, Kuphal and Botsford",37 Hanson Pass,SMA,SunPower,470,32,15040,35,56712
+80,"Cummings, Hickle and Adams",49042 Shelley Crossing,Fronius,LG,560,48,26880,187,66630
+81,"Hilll, Rutherford and Dicki",902 Morningstar Court,Fronius,SunPower,470,43,20210,810,26034
+82,Hayes-Hegmann,66603 Anhalt Court,SMA,LG,470,50,23500,140,26977
+83,Block and Sons,612 Crowley Lane,Fronius,SunPower,470,49,23030,687,47303
+84,"Hayes, Schneider and Raynor",1 Truax Park,SMA,Canadian Solar,470,4,1880,48,88716
+85,Marquardt and Sons,7623 Westerfield Road,Enphase,Canadian Solar,560,45,25200,422,9060
+86,Weimann-Jones,88 Reindahl Drive,Enphase,SunPower,470,34,15980,649,87942
+87,O'Keefe-Borer,47 Kipling Park,Enphase,Jinko,470,4,1880,918,21373
+88,"Stokes, Gusikowski and Kirlin",09 Stoughton Alley,Enphase,Jinko,560,15,8400,835,92013
+89,"Upton, Fahey and Barton",7696 Hazelcrest Crossing,Fronius,Jinko,560,48,26880,941,59038
+90,Wilkinson LLC,264 Mayer Park,SMA,LG,470,1,470,285,46845
+91,Gleason Group,14231 Boyd Crossing,SMA,Jinko,470,23,10810,714,78623
+92,Will LLC,541 Main Drive,Fronius,SunPower,560,29,16240,955,10077
+93,Sawayn LLC,63832 Wayridge Crossing,SMA,LG,560,30,16800,458,94081
+94,"Lockman, Jacobson and Zemlak",88 Lotheville Avenue,Fronius,Jinko,560,35,19600,504,20233
+95,"Rodriguez, Goldner and Hamill",9 Sherman Point,Fronius,Canadian Solar,560,17,9520,593,94914
+96,"Wehner, Roberts and Sawayn",016 School Drive,Enphase,LG,470,2,940,982,33877
+97,Stark-Mertz,243 Calypso Drive,Fronius,Canadian Solar,470,9,4230,785,93842
+98,Auer Inc,28275 Homewood Drive,Fronius,Jinko,470,21,9870,646,59541
+99,Feeney-Schmitt,25 Barnett Road,Enphase,Jinko,560,13,7280,354,28880
+100,Rutherford-Boyle,563 Bartillon Road,SMA,SunPower,560,21,11760,420,74460
+101,"Boehm, Beer and Conroy",40 Elka Plaza,SMA,Jinko,560,45,25200,230,79705
+102,"Koepp, Schumm and Paucek",0 Loomis Alley,Enphase,Canadian Solar,560,1,560,700,59360
+103,Schneider Group,05 Ramsey Way,Enphase,LG,560,38,21280,519,12798
+104,"McLaughlin, Schmitt and Brown",82201 Green Circle,Enphase,Canadian Solar,560,35,19600,620,22129
+105,Witting-Torphy,0 Commercial Crossing,Fronius,LG,560,47,26320,132,76237
+106,Hintz LLC,34 Michigan Junction,SMA,Jinko,560,36,20160,343,71553
+107,Goldner Inc,502 Anhalt Hill,SMA,SunPower,560,0,0,35,61070
+108,Collins-Ferry,1245 Huxley Place,Fronius,SunPower,560,20,11200,198,50717
+109,Bergnaum Group,12870 Elgar Center,Enphase,Canadian Solar,470,7,3290,50,78291
+110,Feeney-Schumm,8 Del Mar Court,Fronius,LG,560,43,24080,709,83089
+111,Fadel Inc,8060 Oak Valley Lane,SMA,SunPower,560,20,11200,583,70015
+112,"Parisian, Stiedemann and Bartoletti",267 Westport Center,Fronius,Canadian Solar,560,11,6160,441,22150
+113,Schuppe-Hoeger,7 Kings Circle,SMA,LG,560,17,9520,839,36785
+114,Parisian Inc,30195 Evergreen Way,Fronius,Jinko,470,26,12220,279,19939
+115,Altenwerth Group,4 Anhalt Plaza,SMA,SunPower,470,37,17390,83,46318
+116,Schumm LLC,2 Springview Junction,Enphase,LG,560,36,20160,37,73537
+117,Haley Group,316 Charing Cross Parkway,Fronius,LG,560,1,560,171,54503
+118,"Carroll, Hamill and Homenick",14 Pleasure Lane,SMA,SunPower,560,50,28000,68,60323
+119,"Okuneva, O'Kon and Anderson",3 High Crossing Point,Fronius,SunPower,470,24,11280,594,719
+120,"Jast, Heller and Dibbert",7 Mallard Road,SMA,LG,560,22,12320,143,73493
+121,Bernier Group,4565 Oriole Hill,Enphase,Jinko,560,22,12320,620,90165
+122,Rempel and Sons,1 Arkansas Parkway,Fronius,Jinko,470,8,3760,211,56243
+123,"Heller, Bartell and Lang",9 Tomscot Junction,Enphase,Jinko,470,48,22560,613,14217
+124,Kilback and Sons,2873 Sachs Parkway,Fronius,Jinko,560,34,19040,861,31843
+125,Heller Inc,934 Hagan Place,SMA,SunPower,560,36,20160,724,58708
+126,Reynolds-Herman,21 Katie Crossing,SMA,Canadian Solar,470,18,8460,822,54218
+127,Mills-Wisozk,5836 Kensington Alley,Enphase,Canadian Solar,470,37,17390,327,48052
+128,Mills Inc,30791 Drewry Court,Fronius,Canadian Solar,560,10,5600,899,97015
+129,Greenholt-Maggio,6 Valley Edge Court,Enphase,SunPower,470,12,5640,12,7821
+130,"Grady, O'Conner and Bauch",9 Quincy Trail,Enphase,SunPower,470,19,8930,129,74223
+131,"Swaniawski, Oberbrunner and Gutmann",3 Anderson Parkway,SMA,SunPower,470,46,21620,872,70396
+132,Crist LLC,85128 Lakewood Gardens Trail,Enphase,SunPower,560,40,22400,722,74405
+133,Johnston-Boyle,2 Memorial Point,Enphase,Jinko,560,23,12880,903,66459
+134,Buckridge-Tromp,1616 Loomis Avenue,Enphase,Canadian Solar,470,50,23500,208,99436
+135,"Frami, Bergnaum and Mosciski",56 Rockefeller Lane,Enphase,LG,470,6,2820,182,53181
+136,"Runolfsson, Rolfson and Schamberger",754 Kedzie Junction,Enphase,SunPower,470,2,940,24,91456
+137,Lehner Group,446 Lighthouse Bay Court,Enphase,Jinko,560,44,24640,777,57614
+138,"Jacobs, Prohaska and Wolf",4 Corscot Park,SMA,Canadian Solar,560,16,8960,934,10885
+139,Hansen-Goyette,11 Shoshone Parkway,Enphase,Jinko,560,24,13440,446,86183
+140,Kozey and Sons,50619 Aberg Pass,Fronius,SunPower,470,13,6110,756,7381
+141,Bayer-Collier,5001 Springs Avenue,Enphase,LG,470,41,19270,748,20814
+142,Blick Group,3 8th Junction,SMA,SunPower,470,42,19740,831,36419
+143,"Rosenbaum, Kris and Cronin",6 Moulton Hill,Enphase,SunPower,560,18,10080,203,52093
+144,Beahan Inc,53 Cascade Terrace,Fronius,SunPower,470,16,7520,954,66974
+145,"Abernathy, Okuneva and Jacobi",9768 Spenser Street,Fronius,Canadian Solar,470,5,2350,370,78345
+146,Spinka-Heathcote,5034 Elgar Hill,Enphase,Canadian Solar,470,14,6580,444,42894
+147,Keeling and Sons,33 Memorial Alley,Enphase,LG,470,16,7520,452,5444
+148,"Dooley, Mitchell and Braun",762 Westport Avenue,Fronius,Jinko,560,8,4480,208,71835
+149,Nikolaus Inc,16526 Logan Crossing,Enphase,LG,560,50,28000,229,21382
+150,Wolff LLC,40 Darwin Park,Enphase,Jinko,470,34,15980,506,84910
+151,"Barrows, Kovacek and McKenzie",89 Division Hill,Fronius,Canadian Solar,560,16,8960,790,90374
+152,"Bergnaum, Goldner and Roob",88192 Dawn Junction,Fronius,SunPower,470,32,15040,770,7631
+153,"Armstrong, Kutch and Moen",638 Carberry Way,SMA,SunPower,560,34,19040,850,83277
+154,Legros and Sons,82 Erie Plaza,Enphase,LG,470,19,8930,468,52034
+155,Ernser and Sons,380 Ilene Circle,SMA,Canadian Solar,470,20,9400,296,39746
+156,Carroll-Hansen,03 Londonderry Road,Enphase,LG,560,37,20720,625,17499
+157,Weimann and Sons,962 Lien Street,Fronius,SunPower,470,28,13160,161,17162
+158,"Watsica, Wilkinson and Jaskolski",063 Sutherland Hill,SMA,LG,560,21,11760,271,41105
+159,Bartoletti-Little,0 Fulton Lane,Enphase,LG,560,10,5600,372,32543
+160,"Willms, Maggio and Powlowski",2 Fulton Pass,Fronius,LG,560,32,17920,398,45690
+161,Abbott-Schultz,87054 Johnson Hill,SMA,Canadian Solar,560,18,10080,566,33272
+162,Murray and Sons,90852 Macpherson Court,Enphase,LG,560,17,9520,889,61715
+163,Jast and Sons,541 Arizona Trail,Fronius,Jinko,560,45,25200,109,852
+164,"Braun, Gleason and Volkman",34144 Summit Drive,Enphase,LG,470,36,16920,954,35563
+165,Kuhic and Sons,752 Blackbird Parkway,SMA,Canadian Solar,470,7,3290,877,26726
+166,Rosenbaum Inc,2224 Little Fleur Way,Enphase,SunPower,470,0,0,55,20938
+167,Feil-Wolff,836 Buena Vista Circle,Fronius,Jinko,470,46,21620,306,42554
+168,Halvorson Inc,82 4th Drive,Enphase,SunPower,470,1,470,953,43659
+169,"Fahey, Breitenberg and Wilderman",74 Pawling Street,SMA,LG,560,28,15680,435,78023
+170,"Gerlach, Pouros and Lockman",5157 Rigney Crossing,Enphase,Canadian Solar,470,41,19270,494,90639
+171,"Kuhlman, Deckow and Rippin",88 Bay Avenue,SMA,LG,470,34,15980,508,50148
+172,Powlowski-Zboncak,68352 Pawling Trail,Enphase,SunPower,560,5,2800,229,98394
+173,"Emmerich, Gerlach and Weber",61 Dahle Terrace,SMA,SunPower,470,10,4700,569,88508
+174,Mohr Inc,855 Sachs Place,Fronius,Jinko,470,28,13160,499,24122
+175,"Gerhold, Rolfson and Rempel",9 Arkansas Parkway,Fronius,Canadian Solar,560,0,0,69,4533
+176,Wisoky and Sons,55818 Pine View Street,Enphase,SunPower,560,37,20720,561,26195
+177,Goodwin-Prohaska,6382 Oak Terrace,Fronius,SunPower,560,46,25760,89,85625
+178,"Homenick, Kozey and Davis",7670 Montana Alley,SMA,LG,560,6,3360,487,99092
+179,Daniel Inc,403 Rockefeller Park,SMA,Jinko,470,22,10340,57,83014
+180,Satterfield-Corkery,51304 Talmadge Terrace,Enphase,LG,470,7,3290,861,31954
+181,"Reichert, Strosin and Thiel",5 Bluejay Street,Enphase,LG,560,2,1120,110,79577
+182,Orn-Ruecker,31 Loeprich Hill,Enphase,Jinko,560,41,22960,326,96433
+183,Zboncak and Sons,1 Buell Hill,SMA,SunPower,470,5,2350,655,66274
+184,Wiegand LLC,07 Hanover Road,SMA,LG,470,11,5170,927,35225
+185,"Senger, Barrows and Powlowski",1 Clyde Gallagher Street,Enphase,LG,560,20,11200,34,42272
+186,"Weimann, Hilll and Mayert",989 Morning Park,Enphase,LG,560,42,23520,634,88756
+187,Muller and Sons,2022 Montana Circle,Fronius,Canadian Solar,470,14,6580,885,45580
+188,Muller Group,438 Luster Point,Enphase,Jinko,560,3,1680,407,92746
+189,Murphy-Howell,7175 Prairie Rose Trail,SMA,SunPower,560,40,22400,36,99578
+190,"Gutmann, Mills and Lemke",63 Talmadge Road,Enphase,Jinko,560,40,22400,614,57726
+191,"Hills, Kirlin and Langworth",6021 Morrow Pass,SMA,Jinko,560,9,5040,331,97259
+192,Quitzon and Sons,2026 Norway Maple Lane,SMA,LG,470,30,14100,597,24139
+193,Roob-Rowe,19781 Iowa Hill,SMA,LG,470,22,10340,739,81335
+194,"Conn, Corwin and Conn",41 Vidon Parkway,Enphase,Jinko,560,24,13440,918,17281
+195,Kertzmann-Grimes,089 Rigney Place,SMA,Jinko,470,34,15980,677,14006
+196,"Crist, Zemlak and Swift",52 Judy Lane,SMA,SunPower,560,25,14000,886,48423
+197,Lindgren-Sauer,216 Iowa Circle,Fronius,LG,560,5,2800,557,46749
+198,Goodwin and Sons,989 Crest Line Street,Enphase,Canadian Solar,470,37,17390,434,98948
+199,"Bosco, Mayert and Effertz",0404 Hermina Terrace,Enphase,Jinko,470,12,5640,103,5008
+200,Satterfield-McClure,7 Schurz Terrace,Fronius,SunPower,470,11,5170,739,4723
+201,"Koss, Koepp and Vandervort",14185 Del Mar Street,Enphase,SunPower,560,49,27440,470,69213
+202,Jast-Wolff,138 Sauthoff Crossing,SMA,Jinko,560,29,16240,597,53344
+203,"Gutkowski, Hegmann and Shanahan",10 Ruskin Park,Enphase,Jinko,560,8,4480,911,39529
+204,Steuber Inc,0 Jay Park,Enphase,Canadian Solar,470,36,16920,251,24959
+205,Goyette-Lemke,88680 Mayer Parkway,Enphase,Canadian Solar,470,10,4700,103,33381
+206,Langosh-Hodkiewicz,936 Hooker Place,Fronius,Jinko,470,30,14100,643,68849
+207,Waters Inc,8454 Carey Junction,Fronius,LG,470,46,21620,141,52636
+208,Walter and Sons,99537 Sunbrook Park,Fronius,Canadian Solar,470,4,1880,78,8281
+209,Hessel LLC,39 Cherokee Lane,Fronius,Canadian Solar,560,30,16800,24,96369
+210,King-Walker,4894 Oakridge Junction,Enphase,SunPower,560,45,25200,416,79067
+211,Waters-Murazik,4 Morrow Circle,Fronius,Canadian Solar,560,15,8400,786,5213
+212,"Blick, Runolfsdottir and Orn",70 Oak Point,SMA,Canadian Solar,560,46,25760,228,71818
+213,Grimes Inc,010 Hauk Center,SMA,Canadian Solar,560,12,6720,917,53102
+214,"Barton, Pouros and Kunde",315 Sachs Junction,Fronius,Canadian Solar,560,0,0,316,75571
+215,"White, Smith and Cremin",7 Ridge Oak Park,SMA,Jinko,470,36,16920,348,35986
+216,Von-O'Hara,6 Southridge Plaza,Fronius,LG,560,41,22960,200,79133
+217,Johnson and Sons,2 Service Junction,Fronius,Jinko,560,11,6160,986,46679
+218,Reinger Group,5736 Manitowish Court,Fronius,SunPower,470,23,10810,14,30684
+219,Roberts and Sons,83468 Quincy Crossing,Enphase,Jinko,470,15,7050,607,53817
+220,Koch-Reynolds,0038 Pine View Crossing,Fronius,Canadian Solar,470,11,5170,493,3755
+221,"Kris, Feest and Reichel",79336 Pankratz Road,Enphase,Jinko,470,34,15980,660,94741
+222,"Murazik, Runte and Strosin",3133 Lyons Crossing,Enphase,Canadian Solar,470,36,16920,110,90344
+223,"Gleason, Renner and Bayer",92 Graceland Drive,Fronius,SunPower,470,4,1880,738,84646
+224,Ledner-Emard,0 Dovetail Circle,Enphase,Jinko,560,9,5040,50,88683
+225,"Predovic, Ratke and Kling",5752 Brickson Park Way,Enphase,SunPower,470,4,1880,585,11433
+226,"Balistreri, Luettgen and Buckridge",9 Onsgard Terrace,Enphase,Jinko,470,13,6110,462,9054
+227,"O'Keefe, Bogisich and Boyer",2129 Thompson Street,SMA,SunPower,560,15,8400,933,61728
+228,"Miller, Boyle and Macejkovic",4 Valley Edge Point,Enphase,SunPower,470,28,13160,486,97562
+229,Marquardt-Daugherty,0 Meadow Vale Crossing,Enphase,LG,470,14,6580,145,90777
+230,Hessel-Ruecker,52 Eggendart Court,Fronius,Jinko,470,0,0,218,15285
+231,"Rempel, Marquardt and Kuhn",440 Clemons Pass,Enphase,Canadian Solar,470,32,15040,948,96343
+232,Jast and Sons,34 Maple Plaza,SMA,Canadian Solar,470,25,11750,738,49203
+233,"Parker, Dicki and Jacobson",88 Reinke Circle,Fronius,LG,560,24,13440,494,40112
+234,"Jast, Collins and Nikolaus",940 Oneill Road,SMA,Canadian Solar,560,4,2240,941,99857
+235,"Johnson, Towne and Littel",75 Sommers Plaza,SMA,SunPower,560,37,20720,278,64780
+236,"Klein, Torp and Swift",1 Northfield Circle,Fronius,LG,560,19,10640,15,80045
+237,"Mueller, Lynch and Ledner",427 Lakeland Way,Enphase,SunPower,470,4,1880,985,64037
+238,Hagenes Inc,1 Derek Crossing,Fronius,SunPower,470,30,14100,448,54757
+239,Bahringer Group,01129 Vermont Place,Fronius,Canadian Solar,470,29,13630,150,43414
+240,Huel-Kuhlman,32 Express Circle,Enphase,LG,470,5,2350,15,93082
+241,Moore Inc,539 Towne Drive,Enphase,SunPower,560,11,6160,206,40268
+242,Paucek Group,7 Hooker Place,SMA,SunPower,560,47,26320,426,32733
+243,"Hettinger, Schimmel and Halvorson",47 Montana Pass,Fronius,LG,560,20,11200,441,30200
+244,Marks Inc,706 Fairfield Avenue,Fronius,Jinko,470,43,20210,382,3167
+245,"Orn, Kulas and Becker",5498 Maple Wood Pass,Enphase,Canadian Solar,560,20,11200,726,28663
+246,Rowe Inc,0 Daystar Place,Enphase,Canadian Solar,470,21,9870,767,68776
+247,"Huels, O'Connell and Beer",393 Petterle Terrace,SMA,SunPower,470,45,21150,953,22428
+248,"Strosin, Tillman and Lynch",74982 Oxford Street,Enphase,Jinko,470,0,0,276,91318
+249,Emmerich-Farrell,2215 Debra Street,SMA,Canadian Solar,560,39,21840,263,88600
+250,"Herzog, Klein and Bode",59031 Macpherson Lane,SMA,Canadian Solar,560,1,560,560,17003
+251,Schowalter-Swift,93562 2nd Road,SMA,Jinko,470,41,19270,337,38968
+252,"Rippin, Klein and King",1 Gulseth Street,Fronius,Canadian Solar,470,40,18800,742,65927
+253,Muller-Waelchi,52 Delaware Park,SMA,SunPower,470,8,3760,193,37249
+254,Hand-Herman,13117 Lotheville Avenue,Fronius,SunPower,560,45,25200,138,97225
+255,Cremin Inc,5 Lyons Hill,Enphase,Canadian Solar,470,23,10810,656,22979
+256,Thompson-Kling,09 Esch Terrace,Enphase,Jinko,560,44,24640,597,31672
+257,Zemlak-Romaguera,554 Sauthoff Center,Enphase,Jinko,470,34,15980,398,34041
+258,"Haley, Bergnaum and Gleichner",52777 Anderson Way,Enphase,SunPower,470,46,21620,990,47238
+259,Purdy-Kirlin,89051 Cherokee Park,Fronius,LG,470,39,18330,407,15629
+260,Bartoletti LLC,468 Ohio Junction,Enphase,LG,560,30,16800,128,48097
+261,Mayer and Sons,3413 Saint Paul Hill,SMA,SunPower,560,15,8400,528,52918
+262,"Lueilwitz, O'Connell and Pagac",76 Elmside Pass,Enphase,LG,470,0,0,764,31511
+263,Adams and Sons,72 Pearson Center,SMA,LG,560,35,19600,327,8294
+264,"Altenwerth, Kertzmann and Stoltenberg",334 Cherokee Alley,Fronius,LG,560,2,1120,780,87630
+265,Renner Inc,5627 Walton Drive,Enphase,Canadian Solar,470,7,3290,220,70470
+266,"Friesen, Lynch and Erdman",523 Kennedy Point,Enphase,LG,560,33,18480,678,2469
+267,Lang LLC,70 Prairie Rose Crossing,Enphase,Jinko,470,39,18330,161,65087
+268,"Larson, Gutmann and Purdy",92897 Village Green Crossing,Enphase,SunPower,470,17,7990,77,22228
+269,Parisian-Cartwright,0 Spaight Place,Fronius,SunPower,470,46,21620,824,38985
+270,Wolf-Mayert,15603 Springview Hill,SMA,Jinko,470,13,6110,933,61891
+271,Labadie LLC,1 Dwight Pass,SMA,Jinko,470,35,16450,383,4598
+272,Heathcote-Kuvalis,214 Milwaukee Park,Fronius,SunPower,470,43,20210,508,34487
+273,Wilderman Group,14 Brentwood Road,Enphase,SunPower,560,23,12880,878,97128
+274,Douglas-Schimmel,14443 Kedzie Road,SMA,SunPower,470,10,4700,104,99372
+275,"Kshlerin, Franecki and Runolfsson",68 Raven Hill,Fronius,LG,560,44,24640,813,27700
+276,Lebsack Group,82 Mesta Trail,Enphase,SunPower,470,6,2820,295,8999
+277,"Hodkiewicz, D'Amore and Schuster",224 Emmet Parkway,Fronius,Canadian Solar,560,41,22960,184,5891
+278,"Murphy, Ryan and Macejkovic",23007 Messerschmidt Trail,Fronius,Jinko,560,17,9520,483,98587
+279,"Rohan, Walsh and Koelpin",98 Tomscot Avenue,SMA,LG,470,10,4700,666,24076
+280,"Turcotte, Borer and Jacobi",780 Katie Place,SMA,Jinko,470,19,8930,645,99939
+281,Ondricka Inc,14933 Oak Terrace,Enphase,Canadian Solar,560,11,6160,680,31355
+282,Pacocha-Schultz,1016 Hansons Avenue,Enphase,Jinko,560,19,10640,860,72845
+283,Kreiger-Hoppe,2923 Main Park,SMA,Canadian Solar,560,19,10640,836,82266
+284,"Okuneva, Rolfson and Kunde",78 Aberg Street,SMA,Jinko,560,40,22400,773,54375
+285,Christiansen and Sons,3 Nova Court,Fronius,Jinko,470,35,16450,501,40860
+286,"Block, Schmidt and Goodwin",8 Pennsylvania Street,Fronius,SunPower,560,35,19600,876,22378
+287,Senger and Sons,6 Marquette Plaza,Enphase,Canadian Solar,470,38,17860,759,74413
+288,Pollich-Gibson,3892 Kings Parkway,Enphase,Jinko,470,41,19270,315,3747
+289,Nicolas-Muller,9 Debs Pass,Enphase,Jinko,560,20,11200,463,42025
+290,"Walsh, Bayer and Reynolds",21959 Welch Pass,SMA,Jinko,560,13,7280,797,49192
+291,Harvey-Kohler,7015 Sycamore Parkway,Enphase,LG,470,29,13630,841,7602
+292,Walter-Hartmann,25014 Caliangt Street,SMA,SunPower,560,13,7280,156,51313
+293,Bradtke-Bruen,64 Donald Parkway,Enphase,Canadian Solar,560,38,21280,301,28433
+294,"Heller, Hansen and Hayes",549 Farwell Pass,Fronius,SunPower,470,15,7050,738,23123
+295,"Waelchi, Nolan and Waters",40 Johnson Street,SMA,SunPower,560,35,19600,775,95899
+296,Gerhold-Johnston,73153 Tomscot Court,Fronius,LG,470,36,16920,64,20681
+297,Simonis Group,936 Bultman Point,Fronius,Jinko,560,8,4480,163,98689
+298,"Bergstrom, Bergstrom and Zemlak",862 Pierstorff Crossing,SMA,LG,470,7,3290,150,71975
+299,Schimmel-Fay,5969 Riverside Plaza,Enphase,LG,470,14,6580,452,17494
+300,"Berge, Armstrong and Schoen",30335 Muir Alley,Fronius,Canadian Solar,470,41,19270,197,77352
+301,Ruecker LLC,6241 Transport Road,SMA,SunPower,560,34,19040,93,97708
+302,"Kub, Wintheiser and Padberg",6944 Dawn Pass,Enphase,SunPower,470,46,21620,559,73914
+303,"Friesen, Mraz and Kemmer",0 Red Cloud Hill,Enphase,LG,470,32,15040,619,11492
+304,Kutch-O'Kon,5 Reindahl Center,Fronius,SunPower,560,32,17920,556,18731
+305,Dietrich LLC,32 Clarendon Hill,SMA,Jinko,560,14,7840,485,24335
+306,"Klocko, Doyle and Turner",07757 Cottonwood Court,Enphase,SunPower,470,34,15980,913,91016
+307,"Schmitt, Ward and Cremin",62 5th Road,Enphase,LG,560,46,25760,908,54215
+308,"Schulist, Murazik and Lockman",64676 Lillian Center,Fronius,Canadian Solar,470,29,13630,863,37643
+309,Nienow Group,31119 Brown Park,Enphase,LG,470,2,940,15,92851
+310,Metz Group,08682 Glacier Hill Alley,Enphase,Jinko,470,20,9400,340,29981
+311,Hane Group,384 Eggendart Pass,Enphase,Canadian Solar,560,3,1680,12,49667
+312,Stroman-Corkery,92 Ramsey Street,Fronius,Canadian Solar,560,39,21840,280,12346
+313,Lemke-Bailey,14523 Cambridge Parkway,Enphase,SunPower,470,29,13630,990,36974
+314,Davis-Jones,025 Forster Drive,Enphase,LG,470,25,11750,455,48142
+315,"Bins, VonRueden and Keebler",06 Ramsey Place,SMA,SunPower,560,11,6160,554,41468
+316,Walsh LLC,93800 Westport Pass,Fronius,SunPower,470,25,11750,191,13570
+317,"Heidenreich, Runte and Berge",070 Kropf Hill,Enphase,LG,470,6,2820,582,95300
+318,"Krajcik, Boehm and Lindgren",59886 Anthes Park,Fronius,Jinko,560,6,3360,886,63464
+319,Trantow and Sons,465 Pierstorff Plaza,SMA,SunPower,470,40,18800,20,32721
+320,Goldner-Dickens,64304 Main Lane,SMA,Canadian Solar,560,44,24640,525,36859
+321,"Hayes, Strosin and Johnson",4 Fallview Park,Enphase,SunPower,560,41,22960,718,98217
+322,Wolff-Stokes,046 Holy Cross Way,Fronius,Canadian Solar,560,50,28000,380,39053
+323,Parisian Group,53 Mayfield Hill,Enphase,Canadian Solar,470,15,7050,722,23430
+324,Bayer-Bogan,5319 La Follette Road,Enphase,SunPower,560,8,4480,909,32261
+325,"Turner, Schuppe and Bechtelar",6487 Troy Road,Fronius,LG,560,30,16800,94,9697
+326,"Davis, Lehner and Stoltenberg",2 7th Court,Enphase,Jinko,470,38,17860,24,64589
+327,Reynolds Group,530 Surrey Plaza,Fronius,SunPower,560,27,15120,68,54938
+328,Rippin LLC,9 Clarendon Place,SMA,Canadian Solar,560,44,24640,367,19548
+329,"Roob, Murphy and Moen",7 Badeau Road,SMA,SunPower,470,44,20680,62,90210
+330,Koepp-Ondricka,7 7th Drive,Fronius,Canadian Solar,560,12,6720,299,51630
+331,"Vandervort, Reynolds and Okuneva",334 Lukken Way,Enphase,Jinko,470,0,0,277,36107
+332,Reilly-Botsford,59495 Schmedeman Point,Enphase,LG,560,17,9520,988,20361
+333,Wintheiser-Hagenes,8 Stuart Pass,Fronius,SunPower,560,13,7280,791,39958
+334,Wolff-Renner,204 Haas Pass,Fronius,Jinko,470,14,6580,539,70150
+335,Lowe and Sons,03 Blue Bill Park Terrace,Enphase,Jinko,470,39,18330,953,60814
+336,Wintheiser Group,76 Erie Drive,Fronius,Jinko,560,6,3360,320,31010
+337,Miller Group,60247 Monica Place,Enphase,Canadian Solar,470,27,12690,184,93540
+338,"Corwin, Rogahn and Lowe",16756 Moulton Center,Enphase,SunPower,470,18,8460,561,15130
+339,Leuschke-Konopelski,2 Knutson Pass,Fronius,LG,560,33,18480,940,56237
+340,Kutch-Mayer,860 Dapin Alley,Fronius,LG,560,39,21840,958,16248
+341,Vandervort-Skiles,17 Sherman Point,SMA,SunPower,470,3,1410,399,76285
+342,Maggio-Schimmel,7 Norway Maple Trail,SMA,SunPower,560,21,11760,977,21513
+343,"Kirlin, Witting and Bayer",5926 Jana Hill,Fronius,SunPower,470,50,23500,477,39220
+344,Schuster-Koelpin,381 Doe Crossing Lane,Fronius,SunPower,560,13,7280,580,31802
+345,Ratke-Wunsch,14151 Gale Pass,SMA,LG,560,23,12880,75,17111
+346,Rodriguez-Moore,32231 Hoard Alley,Fronius,LG,560,28,15680,945,78293
+347,Pfeffer Inc,9 Toban Trail,Fronius,Jinko,560,19,10640,281,3765
+348,Schowalter Group,508 Clyde Gallagher Terrace,Enphase,Canadian Solar,560,46,25760,513,96515
+349,Lemke and Sons,6 Rutledge Alley,Fronius,Canadian Solar,560,50,28000,347,1570
+350,Schiller Group,04 Morningstar Alley,SMA,SunPower,470,22,10340,113,82695
+351,Friesen-Morissette,843 Haas Junction,Fronius,LG,470,38,17860,296,38576
+352,Rippin-Padberg,74 Logan Way,Enphase,Jinko,560,31,17360,6,73585
+353,"Hoeger, Johnston and Pollich",2 Bowman Junction,Fronius,Canadian Solar,470,0,0,326,2410
+354,"Bergstrom, Fahey and Morissette",1354 John Wall Avenue,SMA,SunPower,470,27,12690,552,69774
+355,Hansen-Mueller,6685 Prairie Rose Alley,SMA,Jinko,470,32,15040,190,875
+356,"Zulauf, Prosacco and Wiegand",30149 Mockingbird Lane,Fronius,Canadian Solar,560,46,25760,586,79104
+357,Torp LLC,190 Gale Drive,Enphase,Jinko,470,40,18800,728,43704
+358,Hodkiewicz LLC,59974 Arkansas Street,Enphase,Canadian Solar,560,4,2240,9,88531
+359,O'Hara-Connelly,08576 Brown Point,Fronius,Canadian Solar,560,45,25200,643,87104
+360,Lemke-Koch,06 Buena Vista Parkway,SMA,Canadian Solar,560,6,3360,540,34650
+361,Rippin-Homenick,91824 Columbus Alley,Enphase,SunPower,470,21,9870,684,2280
+362,"Simonis, Kohler and Hirthe",4 Merrick Terrace,Fronius,Canadian Solar,560,15,8400,424,92273
+363,Heathcote-Mertz,9 Little Fleur Hill,Fronius,LG,470,33,15510,571,36489
+364,Glover Group,68 Clyde Gallagher Trail,Enphase,SunPower,560,3,1680,244,40641
+365,"Runolfsdottir, Conn and Schroeder",62 Kinsman Terrace,Fronius,LG,560,31,17360,390,7891
+366,Skiles Group,6161 Barby Alley,Enphase,Jinko,470,27,12690,403,95654
+367,West Group,8341 Crest Line Crossing,Fronius,Canadian Solar,470,41,19270,752,5006
+368,"Renner, Bahringer and Effertz",8099 Cambridge Road,Enphase,Canadian Solar,470,27,12690,315,62968
+369,"Lubowitz, Labadie and Lehner",58569 Cordelia Park,Fronius,Jinko,560,39,21840,899,10999
+370,Denesik-Schamberger,818 Melby Parkway,Fronius,Jinko,470,23,10810,635,98281
+371,"Nitzsche, Ferry and Kozey",13 Anhalt Road,Enphase,SunPower,560,9,5040,743,59150
+372,Erdman Group,5392 Haas Center,Enphase,SunPower,470,13,6110,81,14467
+373,Bode-Kessler,68143 Westport Plaza,Fronius,SunPower,560,30,16800,124,6952
+374,Emmerich Inc,388 Kipling Park,SMA,Jinko,560,44,24640,849,61530
+375,"Predovic, Mann and Jast",35562 Hermina Circle,Enphase,Jinko,560,13,7280,392,77812
+376,Kuhn Group,15443 Reindahl Point,SMA,LG,470,48,22560,381,24041
+377,Lueilwitz and Sons,30588 Kennedy Road,Enphase,Canadian Solar,560,25,14000,344,3456
+378,"Windler, Dibbert and Stroman",839 Meadow Vale Way,SMA,LG,560,39,21840,631,80916
+379,"Leannon, Renner and Hagenes",390 Saint Paul Avenue,SMA,LG,560,33,18480,388,87639
+380,"Lebsack, Trantow and Jacobi",6 Chinook Plaza,SMA,Canadian Solar,470,11,5170,748,82361
+381,Franecki Group,7 Barnett Place,Enphase,LG,560,31,17360,911,23838
+382,Hilpert LLC,6 Wayridge Place,SMA,LG,560,35,19600,983,85765
+383,"Sanford, Heaney and Kirlin",996 Park Meadow Way,Fronius,Jinko,560,36,20160,180,45135
+384,"Kuphal, Wilkinson and Jenkins",33 Redwing Avenue,Fronius,LG,470,44,20680,973,11191
+385,Balistreri-Harber,47 Waywood Road,SMA,LG,470,32,15040,81,33641
+386,Pfeffer-Kling,40739 Menomonie Avenue,Enphase,LG,470,20,9400,580,8600
+387,"Schmeler, Torphy and Barrows",63 Briar Crest Way,SMA,SunPower,560,46,25760,850,75631
+388,Corwin and Sons,17886 Sachtjen Street,SMA,SunPower,470,21,9870,51,51648
+389,Morissette-Beier,3 Mockingbird Plaza,Enphase,Jinko,470,8,3760,276,24999
+390,Connelly-Parker,84141 Glendale Road,Fronius,Jinko,470,50,23500,65,38896
+391,Quitzon Inc,28715 Moose Lane,Enphase,SunPower,560,1,560,544,65924
+392,Pagac and Sons,317 Sage Circle,Enphase,SunPower,470,47,22090,243,30213
+393,Conroy and Sons,963 Michigan Pass,Enphase,SunPower,560,1,560,0,43404
+394,Koepp-Marvin,8 Magdeline Center,Enphase,Jinko,470,31,14570,295,47658
+395,Wisoky Inc,7637 Eliot Terrace,Fronius,LG,560,40,22400,463,24411
+396,Gibson LLC,735 Walton Hill,SMA,Canadian Solar,470,17,7990,226,65823
+397,Kreiger-Gutmann,5 Gulseth Court,Fronius,Canadian Solar,470,16,7520,76,35809
+398,Lehner LLC,2 Maryland Place,SMA,LG,560,27,15120,344,11429
+399,Heidenreich-McGlynn,6 Northport Plaza,Fronius,SunPower,560,37,20720,733,16896
+400,Johns-Pacocha,7772 Gulseth Point,SMA,Canadian Solar,560,37,20720,502,39343
+401,Bartoletti-Bruen,19108 Buell Pass,SMA,LG,560,14,7840,801,45606
+402,Gerhold-Smitham,9 Victoria Way,Fronius,Canadian Solar,470,0,0,685,43979
+403,Weissnat and Sons,2 Farragut Point,SMA,Canadian Solar,470,4,1880,468,39771
+404,Purdy Group,1545 Upham Trail,Enphase,Jinko,470,39,18330,186,28669
+405,Ritchie-Hodkiewicz,65 Westridge Hill,Fronius,Jinko,470,20,9400,923,98750
+406,Koss Inc,5327 Parkside Avenue,SMA,LG,560,10,5600,887,30528
+407,Gislason-Swift,481 Prairieview Street,Enphase,Canadian Solar,470,8,3760,22,10268
+408,Franecki-Stark,82 Moland Terrace,SMA,Jinko,470,38,17860,226,21096
+409,"Thiel, Hilll and Treutel",1 Dottie Parkway,Enphase,SunPower,560,18,10080,214,88009
+410,Nikolaus Inc,0 Bunting Street,Fronius,SunPower,560,0,0,465,71236
+411,Reinger and Sons,4 Northwestern Lane,Enphase,Jinko,560,11,6160,167,3683
+412,"Mueller, Brakus and Goyette",32 Elmside Plaza,Enphase,Jinko,560,19,10640,389,73859
+413,Upton and Sons,5 Orin Plaza,Enphase,LG,470,26,12220,38,63537
+414,Becker-Durgan,66802 Memorial Terrace,Fronius,Canadian Solar,470,6,2820,87,43752
+415,Heaney LLC,0000 Atwood Parkway,Fronius,Canadian Solar,560,6,3360,461,99926
+416,"Hackett, Waelchi and McCullough",15446 Carberry Circle,SMA,SunPower,470,38,17860,711,96967
+417,Kunze-Baumbach,15 Summer Ridge Plaza,Fronius,Jinko,470,32,15040,54,91026
+418,Bogisich-Lynch,7 Hoard Circle,Enphase,SunPower,560,9,5040,27,5194
+419,Haag and Sons,9 Bowman Avenue,Enphase,SunPower,560,45,25200,954,38558
+420,Farrell and Sons,186 Victoria Hill,SMA,SunPower,470,40,18800,45,81848
+421,"Herzog, Cole and Runolfsdottir",398 Leroy Lane,Enphase,Jinko,470,8,3760,676,75063
+422,Gleason-Schaefer,495 Pawling Lane,SMA,Jinko,560,1,560,589,94125
+423,"Schroeder, McClure and Hoeger",4074 Meadow Valley Terrace,Fronius,Jinko,560,15,8400,61,83628
+424,Cummerata-Lang,4 Dakota Circle,Enphase,Canadian Solar,470,49,23030,359,1389
+425,Schumm LLC,2 Hooker Lane,Enphase,Jinko,470,18,8460,212,81073
+426,"Armstrong, Mueller and Littel",52523 Michigan Drive,Fronius,LG,470,15,7050,313,19743
+427,Wilkinson Inc,25465 Brown Junction,Enphase,SunPower,560,2,1120,733,42988
+428,O'Conner-Miller,1 Rutledge Center,SMA,LG,470,24,11280,618,82407
+429,Hane-Zieme,057 Southridge Way,Enphase,SunPower,470,3,1410,900,73320
+430,"Powlowski, Shields and Johnson",356 Lillian Trail,SMA,Jinko,560,9,5040,639,31064
+431,"Jerde, Carter and Hand",9 Center Hill,Enphase,SunPower,470,50,23500,728,54508
+432,Wisozk and Sons,87 Twin Pines Parkway,SMA,SunPower,560,14,7840,500,61886
+433,Kling Group,317 Springview Junction,SMA,Jinko,560,22,12320,203,1085
+434,Rempel Group,2913 Duke Street,SMA,LG,470,48,22560,619,91591
+435,Wyman-Crist,40408 Elka Street,Fronius,LG,560,22,12320,629,28788
+436,Okuneva-Zulauf,05 Fair Oaks Pass,Enphase,LG,470,8,3760,148,56121
+437,Ebert-Gibson,2302 Schmedeman Way,Enphase,Canadian Solar,560,25,14000,806,7501
+438,"Grant, Hayes and Lindgren",664 Petterle Road,SMA,Jinko,560,10,5600,893,60670
+439,Prosacco-Champlin,1258 Huxley Point,Enphase,LG,470,26,12220,82,2536
+440,Haag-Wintheiser,3 Lighthouse Bay Avenue,Enphase,LG,560,35,19600,549,6185
+441,Rice-Tremblay,60324 Huxley Road,Fronius,LG,470,15,7050,814,76609
+442,"Pacocha, Koss and Terry",9599 Summit Drive,Fronius,Jinko,470,25,11750,617,21653
+443,Ebert-Ferry,1 Cambridge Street,SMA,SunPower,560,2,1120,146,46524
+444,Miller-Gorczany,6 Steensland Way,Fronius,LG,470,39,18330,52,22063
+445,Wiegand-Bernier,90 Cardinal Crossing,Fronius,LG,470,41,19270,10,82691
+446,Lesch-McCullough,34797 Forest Junction,SMA,LG,470,25,11750,208,37908
+447,Bogan-Schuster,79855 Roxbury Hill,Fronius,Jinko,470,35,16450,784,85774
+448,Ernser LLC,55 Duke Hill,Fronius,SunPower,470,39,18330,328,45191
+449,Powlowski LLC,72026 Bluestem Terrace,Enphase,Canadian Solar,560,45,25200,25,46547
+450,"Halvorson, Stokes and Emmerich",89 Shasta Junction,Fronius,LG,560,10,5600,995,73717
+451,"Nolan, Gibson and Donnelly",0 Esker Circle,SMA,LG,560,43,24080,535,42185
+452,Greenholt-Rowe,77223 Russell Plaza,Fronius,Jinko,560,3,1680,83,19920
+453,VonRueden Inc,741 Pawling Terrace,SMA,Canadian Solar,560,35,19600,375,39490
+454,Luettgen-Moore,91 Fulton Point,SMA,LG,560,2,1120,490,69333
+455,Langworth-Kris,0 Dorton Pass,SMA,Canadian Solar,560,47,26320,718,64809
+456,Smith-Gorczany,819 Rusk Junction,SMA,SunPower,470,35,16450,147,358
+457,"Cole, Armstrong and Roob",3 Maple Wood Crossing,Enphase,LG,470,10,4700,699,72325
+458,"Hayes, Hartmann and Feil",3 Weeping Birch Road,Enphase,Jinko,560,20,11200,170,42177
+459,"Bednar, Paucek and Braun",4 Larry Point,Enphase,SunPower,470,17,7990,541,42219
+460,Stiedemann-Haley,17 1st Crossing,SMA,SunPower,560,5,2800,790,17563
+461,"Hirthe, Bins and Romaguera",808 Wayridge Court,SMA,Jinko,560,33,18480,688,59521
+462,Rippin-Daugherty,241 6th Way,Enphase,LG,560,23,12880,255,54767
+463,"Cormier, Stiedemann and DuBuque",06 Eastlawn Court,SMA,LG,560,42,23520,214,96669
+464,Hintz-Glover,425 Mosinee Point,SMA,LG,560,5,2800,854,61631
+465,Stehr Inc,9994 Armistice Junction,Enphase,SunPower,470,2,940,758,3036
+466,Orn Group,12 Forster Place,SMA,SunPower,470,21,9870,442,28056
+467,Kozey-Emmerich,6675 Sheridan Place,Fronius,Jinko,470,29,13630,975,59060
+468,Lemke Inc,4915 Norway Maple Point,Fronius,Canadian Solar,470,9,4230,987,85982
+469,"Grimes, Gorczany and Collier",36555 Hanover Plaza,SMA,Canadian Solar,560,32,17920,494,27162
+470,"Ratke, Donnelly and Jakubowski",027 Sunfield Drive,SMA,SunPower,470,5,2350,560,43847
+471,Runolfsson-Kirlin,352 Prentice Parkway,Fronius,Canadian Solar,470,24,11280,272,31988
+472,Dare-Satterfield,65527 Melby Parkway,Fronius,Canadian Solar,560,2,1120,77,95186
+473,"Wiza, Schulist and Hermann",623 Carey Point,Enphase,SunPower,560,17,9520,515,91908
+474,Pfeffer-Spinka,63 Browning Center,Enphase,Canadian Solar,560,25,14000,440,3362
+475,Skiles Inc,8 Bluestem Hill,SMA,Jinko,560,50,28000,966,15670
+476,"Bashirian, Purdy and Bogan",66521 Cordelia Street,Enphase,Jinko,560,1,560,665,66715
+477,Kutch LLC,7536 Anthes Terrace,SMA,SunPower,470,4,1880,312,24450
+478,Hegmann-Strosin,46 Lotheville Street,Fronius,SunPower,560,22,12320,653,36349
+479,"Becker, MacGyver and Toy",632 Waxwing Hill,Enphase,LG,560,24,13440,157,20196
+480,Kub-Fahey,3 Caliangt Center,Enphase,Jinko,560,15,8400,239,97057
+481,"Douglas, Schuppe and Upton",23 Sloan Drive,Fronius,SunPower,470,26,12220,692,39817
+482,"Conn, Volkman and Runolfsdottir",9841 Dayton Crossing,Enphase,SunPower,560,14,7840,829,25186
+483,Cronin Inc,4698 Glacier Hill Hill,SMA,LG,560,42,23520,747,19496
+484,"Fay, Lowe and Goodwin",883 Moland Trail,SMA,LG,560,28,15680,377,67397
+485,Rosenbaum Group,6095 Lukken Court,SMA,LG,470,13,6110,684,32059
+486,Dietrich-Walter,26 Springview Crossing,SMA,LG,470,29,13630,582,49372
+487,Metz-Zulauf,31238 Hooker Alley,SMA,Jinko,470,21,9870,542,80484
+488,Johnson-Becker,8 Rusk Terrace,Fronius,SunPower,470,46,21620,579,30333
+489,"VonRueden, Oberbrunner and Ruecker",00 Elka Place,Fronius,SunPower,470,35,16450,563,42059
+490,Pollich-VonRueden,8 Northland Place,Enphase,SunPower,560,46,25760,534,16849
+491,"Blanda, Pollich and Bergstrom",3 Barby Street,SMA,LG,560,44,24640,992,63028
+492,Leannon Group,14 Pearson Junction,Fronius,Canadian Solar,560,36,20160,456,48004
+493,Mosciski-Beier,93 Stoughton Point,Enphase,Canadian Solar,470,12,5640,795,9910
+494,"Crona, Kuphal and Pagac",7631 Heffernan Junction,Fronius,SunPower,470,13,6110,581,53319
+495,"Torp, Jerde and Kshlerin",24 Maryland Place,Enphase,SunPower,560,6,3360,433,89855
+496,"Parisian, Wehner and Gerlach",416 Grasskamp Terrace,Enphase,Canadian Solar,470,38,17860,519,65064
+497,Kozey Group,99877 Carioca Plaza,Enphase,SunPower,560,30,16800,84,38160
+498,Schinner Inc,44 Colorado Street,SMA,LG,560,46,25760,158,91096
+499,"Gottlieb, Hegmann and Wyman",435 Maywood Road,Enphase,LG,560,26,14560,521,31688
+500,Lockman Inc,1128 Melrose Plaza,SMA,LG,560,4,2240,608,88973
+501,Schowalter-Senger,15081 Hoepker Drive,Enphase,Canadian Solar,470,36,16920,367,99183
+502,"Feest, Ebert and Thiel",1 Manitowish Drive,Enphase,LG,560,26,14560,656,95197
+503,Koepp-Schoen,0318 Clarendon Pass,Enphase,Jinko,560,24,13440,720,70440
+504,"Goldner, Wiegand and Kris",2 Dwight Alley,Fronius,Canadian Solar,560,0,0,936,57816
+505,Bashirian-Orn,87 Harbort Avenue,Enphase,Jinko,560,17,9520,959,22657
+506,"Welch, Bogisich and Feest",3525 Bartelt Place,Fronius,LG,470,26,12220,31,81018
+507,Carter and Sons,10602 Daystar Road,SMA,Canadian Solar,470,20,9400,139,51881
+508,"Reinger, Denesik and Kunde",1 Ridgeway Pass,SMA,SunPower,470,4,1880,649,54662
+509,Hamill LLC,1 Steensland Alley,Enphase,Jinko,560,48,26880,764,12766
+510,Bednar-O'Connell,55 Buell Crossing,SMA,LG,560,28,15680,168,67434
+511,Dietrich-Erdman,622 Crownhardt Crossing,Fronius,SunPower,470,16,7520,211,84447
+512,"Kuhlman, Grimes and Franecki",20 Pawling Point,Fronius,Canadian Solar,560,1,560,886,72667
+513,"Skiles, Leuschke and Langworth",45837 Hayes Way,Fronius,SunPower,560,31,17360,650,46815
+514,Howe and Sons,7522 Basil Lane,SMA,Jinko,560,46,25760,557,51677
+515,Pacocha Inc,2 Tony Way,Enphase,SunPower,560,39,21840,565,45204
+516,Hickle Inc,5989 Golf Place,Fronius,Jinko,560,21,11760,874,3083
+517,Carter-Gorczany,73 Moulton Place,Enphase,Jinko,470,19,8930,366,74885
+518,"Ankunding, Nitzsche and O'Connell",714 Dayton Point,SMA,LG,470,13,6110,518,32530
+519,Swift Inc,294 Orin Point,Fronius,SunPower,470,32,15040,51,42381
+520,Hansen and Sons,4996 Mcbride Junction,SMA,LG,560,11,6160,865,33540
+521,"Walsh, Morissette and Murray",4 Forster Circle,Fronius,Jinko,470,30,14100,985,54632
+522,"Will, Leuschke and Block",136 5th Parkway,Fronius,SunPower,560,32,17920,531,99276
+523,"Armstrong, Reichel and Johns",719 Katie Hill,Enphase,Jinko,470,9,4230,600,86099
+524,Kerluke Inc,8 Rowland Lane,Fronius,SunPower,470,33,15510,124,97935
+525,Thompson-Cronin,07151 Fisk Place,Enphase,LG,470,44,20680,175,96660
+526,"Rolfson, Hilpert and Harber",65 Golf Course Park,SMA,SunPower,560,9,5040,168,34916
+527,"Borer, Crooks and Raynor",90566 Loomis Center,SMA,LG,560,39,21840,833,91368
+528,Lockman LLC,3581 Warbler Way,Enphase,SunPower,470,4,1880,302,67294
+529,"Gibson, Gutkowski and Collins",52552 3rd Terrace,Enphase,SunPower,560,46,25760,669,63203
+530,"Stark, Bechtelar and Nader",35356 Fairview Way,Enphase,Canadian Solar,560,3,1680,443,40158
+531,"Stokes, Nader and Goldner",71915 Iowa Parkway,Enphase,Jinko,470,5,2350,956,80751
+532,Hegmann-Little,40137 Novick Junction,SMA,LG,560,35,19600,754,86451
+533,Konopelski-Block,385 Rowland Plaza,Enphase,Canadian Solar,470,8,3760,8,14334
+534,"Purdy, Armstrong and Windler",7 Grasskamp Pass,Enphase,Canadian Solar,560,2,1120,231,65507
+535,Medhurst Inc,71 Hanover Point,Fronius,LG,470,14,6580,806,94679
+536,"Casper, Gorczany and Tillman",61 Chive Lane,SMA,SunPower,560,15,8400,145,12523
+537,"Schuster, Windler and Feest",4044 Quincy Pass,Fronius,Canadian Solar,470,50,23500,55,20228
+538,O'Kon Inc,3 Hovde Crossing,Fronius,Canadian Solar,560,2,1120,146,28069
+539,Lind LLC,14918 David Avenue,Fronius,LG,560,8,4480,406,99063
+540,Lueilwitz LLC,498 Service Way,SMA,LG,560,3,1680,849,90608
+541,Macejkovic-Farrell,57 Forest Drive,SMA,LG,470,24,11280,963,53950
+542,McDermott and Sons,20 Quincy Street,Enphase,Canadian Solar,470,45,21150,158,23297
+543,"Kassulke, Ward and Beier",06 Crowley Avenue,Enphase,LG,560,22,12320,390,86047
+544,"Reilly, Hackett and Lockman",38 Iowa Center,SMA,LG,470,1,470,357,22910
+545,"Osinski, Sipes and Hamill",09240 Eliot Pass,SMA,Jinko,560,22,12320,13,35799
+546,"Wilderman, Gulgowski and Prosacco",47 Rowland Hill,Enphase,Jinko,560,43,24080,962,77265
+547,"Swift, Murray and Reichel",89112 Montana Pass,Fronius,Canadian Solar,560,28,15680,804,73189
+548,Fisher Group,18 Kropf Center,Fronius,LG,470,16,7520,62,59819
+549,Rosenbaum-Walker,2 Loeprich Avenue,Fronius,Jinko,560,19,10640,424,14496
+550,Sanford-Lind,7614 Little Fleur Crossing,SMA,LG,560,36,20160,165,9818
+551,Hilpert Inc,081 Daystar Avenue,SMA,Canadian Solar,470,34,15980,759,74294
+552,"Towne, Abbott and Cartwright",101 Mariners Cove Alley,Fronius,Canadian Solar,470,0,0,503,38061
+553,Runolfsson and Sons,280 Drewry Court,Fronius,Jinko,470,29,13630,384,97511
+554,"Ernser, Denesik and Stehr",80 Buhler Alley,SMA,LG,560,35,19600,642,65580
+555,Hegmann LLC,57 Alpine Drive,Fronius,Canadian Solar,560,28,15680,706,96007
+556,Roob-Corwin,37119 Holmberg Junction,Enphase,SunPower,560,50,28000,418,17562
+557,"Carter, Thompson and Hettinger",64 Lillian Park,Fronius,Jinko,560,37,20720,133,69158
+558,Dare-Kohler,70336 Raven Drive,Fronius,LG,470,40,18800,936,86088
+559,Graham-Bosco,0 Thompson Park,Enphase,SunPower,470,0,0,337,71932
+560,"Legros, Willms and Lang",93 Utah Point,Fronius,Canadian Solar,470,2,940,746,36191
+561,"Okuneva, Cassin and Fritsch",81 Old Shore Road,Fronius,LG,560,32,17920,577,34036
+562,Reilly Inc,83542 Glacier Hill Circle,SMA,Canadian Solar,560,41,22960,948,97786
+563,Lesch Inc,24487 Elmside Pass,SMA,Jinko,470,44,20680,129,51455
+564,Parisian Inc,12656 Manitowish Lane,SMA,SunPower,470,33,15510,875,83212
+565,"Trantow, O'Keefe and Rowe",3939 Transport Trail,Enphase,Jinko,470,25,11750,152,97808
+566,"Quitzon, Cole and Raynor",82 Manley Junction,SMA,LG,560,1,560,547,49155
+567,Pollich Inc,3826 Cottonwood Circle,SMA,SunPower,560,2,1120,104,77264
+568,"Hilll, Hayes and Rohan",9 Westend Terrace,Enphase,SunPower,560,2,1120,546,21397
+569,Huels and Sons,29043 Miller Point,Fronius,Canadian Solar,470,19,8930,42,90414
+570,Paucek-Keebler,5 Village Green Parkway,SMA,Jinko,560,49,27440,404,53177
+571,Sporer LLC,8 Mcbride Alley,Enphase,SunPower,470,27,12690,709,83854
+572,"Howell, Durgan and Mayer",07 Chive Terrace,Enphase,SunPower,560,8,4480,582,23340
+573,Hyatt-Ryan,945 Hansons Place,Fronius,Jinko,560,39,21840,758,49837
+574,Yost-Heaney,6 Warrior Hill,SMA,SunPower,470,25,11750,808,7771
+575,Gusikowski and Sons,6987 Swallow Drive,Enphase,Jinko,470,5,2350,621,73960
+576,Beer and Sons,811 Monica Drive,SMA,LG,560,41,22960,311,24208
+577,Haley-Emmerich,4 Roxbury Pass,Enphase,Canadian Solar,470,22,10340,462,12277
+578,Russel LLC,7026 Vernon Hill,Fronius,SunPower,560,1,560,753,99843
+579,Bailey Inc,818 Center Plaza,Enphase,SunPower,470,11,5170,111,85969
+580,Sporer-Hauck,2 Fair Oaks Park,SMA,Jinko,470,35,16450,966,69407
+581,Schmidt and Sons,033 Weeping Birch Plaza,Fronius,SunPower,560,3,1680,35,46041
+582,Hammes LLC,62795 Park Meadow Lane,Fronius,Canadian Solar,560,10,5600,255,17324
+583,Harris-Pacocha,85 Trailsway Crossing,SMA,LG,560,41,22960,189,4246
+584,Graham-Jacobson,9059 7th Park,Enphase,Jinko,470,36,16920,691,87258
+585,Ratke-Franecki,0691 Sycamore Alley,Fronius,Jinko,560,4,2240,133,75613
+586,Bradtke Group,485 Reindahl Crossing,SMA,SunPower,470,36,16920,236,22025
+587,Lowe-Bartoletti,688 Bashford Alley,Fronius,Jinko,470,26,12220,759,81171
+588,Ziemann Inc,0130 Porter Alley,Enphase,LG,470,15,7050,341,32989
+589,"McKenzie, Von and Bayer",1 Clyde Gallagher Trail,SMA,SunPower,560,6,3360,90,24137
+590,Schroeder and Sons,8386 Doe Crossing Way,SMA,Canadian Solar,470,39,18330,60,34628
+591,Gibson Inc,9704 Gale Point,Fronius,Jinko,470,11,5170,213,93530
+592,Kunde Inc,95 Norway Maple Way,Fronius,SunPower,560,19,10640,14,20250
+593,"Barrows, Shields and Homenick",8433 Chive Place,Fronius,Canadian Solar,470,30,14100,514,95075
+594,Jast-Gleichner,50088 Petterle Street,Fronius,LG,560,8,4480,110,20211
+595,Lebsack and Sons,5650 Mcguire Alley,SMA,LG,470,39,18330,646,39703
+596,Cummings-Windler,71 Kenwood Crossing,SMA,SunPower,470,27,12690,912,26730
+597,Stiedemann Inc,94 Miller Avenue,Enphase,Canadian Solar,470,42,19740,380,46764
+598,"Donnelly, Marvin and Senger",9000 Buhler Terrace,SMA,SunPower,470,0,0,488,23993
+599,"Nienow, Graham and Bartoletti",1370 Lakewood Gardens Crossing,SMA,Jinko,560,34,19040,948,89546
+600,Effertz Group,3023 Ridge Oak Road,Fronius,Jinko,560,23,12880,871,96408
+601,"Rogahn, Kuvalis and Feest",378 Kenwood Junction,Fronius,Jinko,560,28,15680,355,98360
+602,Grimes and Sons,813 Lien Pass,Fronius,LG,560,28,15680,366,5360
+603,"Stracke, Rempel and Kunze",00 Harbort Terrace,SMA,LG,470,5,2350,247,9453
+604,Murphy-Ledner,520 Utah Street,Enphase,SunPower,470,25,11750,343,45914
+605,Upton-Schulist,61754 Sunbrook Terrace,Enphase,Jinko,560,22,12320,398,70105
+606,Jakubowski-Bechtelar,64 Roth Crossing,Fronius,SunPower,560,1,560,78,20080
+607,Ryan and Sons,961 Wayridge Lane,Fronius,Jinko,470,38,17860,911,18460
+608,Macejkovic and Sons,4 Red Cloud Lane,Enphase,Canadian Solar,470,1,470,816,64662
+609,Kuphal-Thiel,2 Haas Terrace,SMA,LG,560,44,24640,269,75065
+610,"Roberts, Kub and Blanda",0304 Gina Hill,Fronius,Canadian Solar,470,16,7520,354,82310
+611,Casper-Nienow,96198 Jenna Road,SMA,SunPower,470,8,3760,146,37047
+612,O'Conner-Lind,51682 Huxley Trail,Fronius,LG,470,2,940,819,53442
+613,"Shanahan, Lang and Pouros",60 Nelson Terrace,Enphase,LG,560,30,16800,778,11122
+614,VonRueden-Kilback,6 Hauk Park,Enphase,SunPower,560,22,12320,804,23764
+615,"Parker, Steuber and Stoltenberg",006 Mallard Center,Enphase,Canadian Solar,560,1,560,254,72411
+616,Howell-Rodriguez,5 Fordem Drive,SMA,LG,470,36,16920,926,26052
+617,"Waters, Hettinger and Rippin",32627 Morrow Place,Enphase,Jinko,470,18,8460,623,88730
+618,"Herzog, Swaniawski and Heller",07 Cottonwood Plaza,Enphase,Canadian Solar,470,30,14100,36,32360
+619,Koch-Schamberger,0529 Hollow Ridge Trail,Enphase,Canadian Solar,560,31,17360,237,82064
+620,"Auer, Thompson and Larkin",5140 Laurel Pass,SMA,SunPower,470,34,15980,5,49147
+621,Howell Inc,570 Crest Line Junction,SMA,SunPower,470,24,11280,77,59378
+622,Swaniawski-Purdy,744 Messerschmidt Pass,SMA,Jinko,560,0,0,548,36040
+623,Dietrich LLC,3 Fuller Circle,Fronius,Jinko,470,16,7520,868,99566
+624,"Lang, Berge and Grimes",4424 Maple Wood Drive,SMA,LG,560,9,5040,499,76920
+625,Boyle-Terry,1361 Ruskin Court,SMA,Jinko,560,50,28000,109,85642
+626,Denesik-Nitzsche,74833 Russell Center,Fronius,Jinko,560,18,10080,967,1350
+627,Quigley-Leuschke,4 Blaine Terrace,SMA,SunPower,470,27,12690,107,20964
+628,Predovic LLC,83862 Loomis Junction,Fronius,LG,560,5,2800,491,72823
+629,"Skiles, Mann and O'Keefe",0206 High Crossing Drive,Enphase,SunPower,560,40,22400,811,93309
+630,"Parisian, Gulgowski and Okuneva",973 Cordelia Lane,Fronius,LG,470,43,20210,413,59887
+631,"Lebsack, Schaden and Hilpert",7000 Nobel Court,Fronius,Canadian Solar,470,35,16450,189,11082
+632,Braun LLC,688 Maywood Terrace,SMA,SunPower,560,46,25760,612,78233
+633,Sawayn-Lebsack,60627 Schlimgen Plaza,Fronius,Jinko,560,19,10640,641,28198
+634,"Ruecker, Reilly and Feil",26586 Kipling Avenue,Enphase,SunPower,560,30,16800,541,55015
+635,Haag-Willms,6 Old Shore Avenue,Enphase,Canadian Solar,470,12,5640,958,7269
+636,Brekke Inc,625 Sachs Parkway,SMA,Canadian Solar,560,9,5040,789,73344
+637,Bradtke LLC,1 Hallows Circle,Enphase,Canadian Solar,560,29,16240,891,9171
+638,"Ritchie, Beahan and Reichert",247 Lien Avenue,SMA,Canadian Solar,470,24,11280,699,74917
+639,"Wunsch, Baumbach and Breitenberg",657 4th Plaza,Enphase,LG,470,29,13630,594,19101
+640,"Rippin, Carter and McGlynn",3 Calypso Trail,Fronius,SunPower,560,31,17360,676,8855
+641,"Cronin, Rohan and Kertzmann",517 Mallory Parkway,Fronius,SunPower,560,38,21280,769,84536
+642,Mitchell-Feeney,680 Dunning Avenue,Enphase,SunPower,560,4,2240,6,48355
+643,Haley-Ullrich,345 Del Sol Junction,Enphase,Jinko,560,29,16240,695,97102
+644,Yost and Sons,4 Iowa Drive,Enphase,Jinko,560,0,0,918,19350
+645,"Gutmann, Kovacek and Rice",1 Menomonie Pass,Enphase,Canadian Solar,560,48,26880,528,10757
+646,Streich Inc,2150 Susan Pass,Fronius,LG,560,22,12320,928,74299
+647,"Wiza, Luettgen and Kuhic",75251 Oriole Circle,Fronius,Canadian Solar,470,6,2820,873,96787
+648,"Cummerata, Mitchell and Gerhold",8 Mandrake Trail,SMA,Jinko,560,40,22400,585,70913
+649,Hermann Group,8 Springs Trail,Fronius,Canadian Solar,470,38,17860,743,68121
+650,Barton-Daniel,27 American Ash Parkway,Enphase,SunPower,560,33,18480,77,33809
+651,"Goldner, Nolan and Pfeffer",647 Elmside Way,Fronius,LG,470,19,8930,884,85712
+652,"Olson, Abernathy and Schamberger",9418 Veith Pass,SMA,SunPower,560,37,20720,876,20848
+653,"Torphy, Cummerata and Cronin",68 Monterey Trail,SMA,Jinko,470,44,20680,513,96650
+654,"Windler, Abernathy and Tremblay",3241 Kropf Parkway,Fronius,Canadian Solar,560,2,1120,216,70564
+655,Satterfield-Zulauf,79 Mariners Cove Terrace,SMA,Jinko,470,31,14570,918,37748
+656,"Blanda, Gibson and Dietrich",11037 Almo Lane,Fronius,LG,560,11,6160,456,89589
+657,Raynor-Rogahn,38 Bartillon Center,Fronius,SunPower,560,23,12880,964,9213
+658,Ullrich-Johnson,9 Warbler Court,Fronius,LG,560,13,7280,152,98097
+659,Lubowitz-Sipes,01338 Donald Hill,Fronius,LG,560,9,5040,91,19379
+660,Lemke-Stiedemann,1761 Debs Circle,SMA,Jinko,470,37,17390,261,8932
+661,Cronin-Parisian,85372 Center Place,SMA,SunPower,560,48,26880,609,41108
+662,Schowalter-Kutch,394 Westend Junction,Fronius,LG,560,37,20720,727,15773
+663,West-Tremblay,14 Northland Circle,Enphase,SunPower,470,23,10810,799,89091
+664,Wolff Inc,31499 Hovde Plaza,Enphase,Canadian Solar,560,45,25200,229,48260
+665,Sawayn and Sons,4 Hoard Trail,Fronius,Jinko,560,25,14000,169,97309
+666,"Spinka, Bahringer and Volkman",9813 Buhler Terrace,SMA,SunPower,560,34,19040,29,29145
+667,Stroman and Sons,100 8th Trail,Fronius,Jinko,560,40,22400,216,49677
+668,Runte-Balistreri,07661 Golf Road,Fronius,LG,560,30,16800,123,90550
+669,Kilback and Sons,5 Granby Circle,SMA,SunPower,470,34,15980,405,79873
+670,Bartell-Ankunding,326 Ryan Parkway,Fronius,LG,470,47,22090,356,5182
+671,"Homenick, Kilback and Hauck",0167 Village Green Terrace,Fronius,Jinko,560,19,10640,2,76011
+672,Tremblay Group,0 Spaight Pass,Fronius,SunPower,470,1,470,291,65107
+673,Blick-Swift,95168 Huxley Lane,Fronius,Canadian Solar,470,48,22560,641,26174
+674,"Adams, Crist and Pollich",75 Melody Parkway,Fronius,Jinko,470,17,7990,120,58452
+675,"Morar, Langworth and Langworth",3593 Transport Circle,SMA,SunPower,560,24,13440,771,73575
+676,Tillman-Lowe,8 Golf Course Center,Fronius,Canadian Solar,470,20,9400,362,34401
+677,Simonis and Sons,21683 Blackbird Alley,Enphase,Canadian Solar,470,20,9400,527,52840
+678,"Schultz, Spencer and Rippin",2298 Cambridge Plaza,Fronius,Canadian Solar,560,16,8960,839,62786
+679,McClure LLC,549 Forest Dale Point,SMA,Jinko,560,2,1120,525,62663
+680,Weber and Sons,2265 Kings Crossing,Enphase,Jinko,560,16,8960,524,10612
+681,"Lind, Cronin and Stehr",889 Esch Parkway,SMA,SunPower,560,5,2800,62,60506
+682,Sporer Inc,237 Cherokee Park,SMA,Canadian Solar,560,30,16800,902,75546
+683,Gleichner LLC,39 Coolidge Terrace,SMA,SunPower,560,37,20720,50,80663
+684,"Hudson, Hansen and Okuneva",14110 Doe Crossing Alley,SMA,LG,560,48,26880,890,12352
+685,Pouros-Rohan,20 East Center,SMA,LG,470,13,6110,499,88697
+686,Vandervort and Sons,789 Melrose Terrace,Fronius,Canadian Solar,560,12,6720,954,10122
+687,Ruecker and Sons,65 Carioca Park,Enphase,Jinko,560,8,4480,338,75741
+688,Dibbert Inc,05 Portage Lane,Fronius,SunPower,470,12,5640,391,22751
+689,McClure LLC,81 Ilene Pass,SMA,LG,560,14,7840,977,78017
+690,"Rau, Stamm and Osinski",419 Fairview Pass,SMA,SunPower,560,4,2240,687,9722
+691,"Herman, Daugherty and Feeney",8 Northwestern Circle,SMA,LG,560,2,1120,75,51849
+692,"Emard, Ferry and Hahn",35053 Nelson Avenue,SMA,SunPower,560,21,11760,9,14375
+693,Kub-Runte,73891 Roxbury Place,SMA,Jinko,470,5,2350,95,9759
+694,Feest-Runte,81 Dunning Plaza,Fronius,Jinko,560,21,11760,273,62767
+695,Doyle and Sons,2 Weeping Birch Drive,Fronius,Jinko,470,48,22560,711,31274
+696,Dooley-Conn,38090 Mandrake Parkway,Enphase,Jinko,560,3,1680,255,24354
+697,Boyle Inc,62997 Kensington Circle,Enphase,Jinko,560,6,3360,408,7309
+698,"Powlowski, Adams and Zieme",6396 Corry Place,SMA,Canadian Solar,560,11,6160,994,33493
+699,Schuster Inc,6 Waywood Circle,Enphase,LG,560,49,27440,868,20687
+700,Hudson-Berge,71 Mendota Center,Enphase,Jinko,470,19,8930,451,92293
+701,Olson LLC,3 Utah Circle,Enphase,Jinko,560,32,17920,347,94333
+702,Steuber LLC,61 Gerald Pass,Enphase,LG,470,7,3290,100,87771
+703,"Bode, Green and Jerde",12594 Valley Edge Circle,Fronius,Jinko,470,19,8930,768,99947
+704,Boyer-Bailey,015 Bartelt Court,Fronius,Jinko,560,11,6160,984,44867
+705,Bruen Group,2 Washington Lane,Enphase,Canadian Solar,470,3,1410,580,92971
+706,Crist LLC,0679 Myrtle Plaza,Fronius,LG,470,0,0,736,29449
+707,Waters-Runolfsson,47463 Westport Avenue,SMA,Canadian Solar,470,34,15980,39,81002
+708,"Parisian, Rowe and Ankunding",146 Eggendart Street,Enphase,Jinko,560,49,27440,262,14649
+709,Lueilwitz LLC,876 Nevada Trail,Enphase,SunPower,560,46,25760,912,94740
+710,"Mayer, Pacocha and Lowe",57 Lindbergh Junction,Enphase,Jinko,560,0,0,655,40040
+711,"Torp, Cummerata and Pollich",5 Emmet Street,Fronius,Jinko,560,26,14560,907,41232
+712,Monahan LLC,97897 Bartillon Court,Enphase,LG,470,10,4700,66,43879
+713,Lebsack Inc,465 Merrick Trail,SMA,Jinko,470,37,17390,829,76368
+714,Lindgren-Williamson,62115 Mitchell Alley,Enphase,SunPower,560,49,27440,361,7153
+715,Pfeffer-Jakubowski,963 Dayton Crossing,SMA,Jinko,560,23,12880,595,13601
+716,Moore-Kertzmann,672 Debra Parkway,SMA,Jinko,560,41,22960,893,1928
+717,Kunze-Miller,977 6th Park,Enphase,Jinko,470,2,940,158,4642
+718,Crist Group,4 Brown Avenue,SMA,SunPower,470,4,1880,644,5332
+719,Luettgen Group,45022 Atwood Crossing,Fronius,Canadian Solar,560,11,6160,533,13518
+720,Cronin LLC,7 Clove Street,Enphase,LG,470,24,11280,283,30986
+721,Corwin-Simonis,6 Bartelt Plaza,Enphase,Jinko,560,7,3920,696,48424
+722,Gutmann-Harber,43 Melody Way,SMA,LG,470,15,7050,735,51404
+723,Auer-Pacocha,2 Saint Paul Drive,Enphase,LG,560,5,2800,807,37078
+724,Rempel-Nikolaus,416 Gateway Crossing,SMA,SunPower,560,21,11760,83,24949
+725,Huel LLC,0 Lien Drive,SMA,SunPower,470,5,2350,283,90852
+726,"Lemke, Miller and Spencer",020 Lillian Circle,Fronius,Jinko,470,7,3290,177,16174
+727,Daniel-Kohler,981 Superior Avenue,Fronius,Jinko,560,2,1120,497,76707
+728,Strosin Inc,4699 Prentice Lane,Enphase,Canadian Solar,560,48,26880,336,13380
+729,Kessler-Lakin,85 Leroy Avenue,Enphase,Canadian Solar,560,14,7840,40,76156
+730,Bogan LLC,7 Fremont Terrace,SMA,Canadian Solar,470,28,13160,612,13348
+731,"Fadel, Parker and Mante",2332 Aberg Point,SMA,Canadian Solar,560,5,2800,563,5860
+732,"Crooks, Leannon and Pagac",12 Victoria Court,Fronius,SunPower,560,26,14560,867,66945
+733,Roberts LLC,2450 Meadow Vale Avenue,SMA,LG,560,41,22960,555,7376
+734,"Beahan, O'Kon and Flatley",3 Raven Terrace,Fronius,SunPower,470,5,2350,533,24325
+735,Ledner Group,84 Steensland Terrace,SMA,LG,560,3,1680,424,8114
+736,"Hirthe, Ratke and Robel",34 Mallory Drive,SMA,Jinko,470,6,2820,734,16882
+737,"Emmerich, Auer and Hermiston",1 Mallory Plaza,SMA,Canadian Solar,560,22,12320,532,93176
+738,Grant-Powlowski,67325 Fair Oaks Street,SMA,SunPower,560,46,25760,478,89719
+739,Schmitt LLC,32 Homewood Terrace,Fronius,LG,560,49,27440,538,73173
+740,Rolfson-Mohr,4 Pearson Point,Fronius,Canadian Solar,470,9,4230,982,32168
+741,Smith Inc,72 Hoard Alley,Fronius,Canadian Solar,560,16,8960,543,91633
+742,Braun-Haley,1 Chive Hill,Enphase,Canadian Solar,470,29,13630,828,84861
+743,"O'Connell, Kub and Hand",681 Donald Street,Enphase,LG,560,4,2240,573,91424
+744,"Gulgowski, Rohan and Flatley",39 Barnett Road,SMA,SunPower,470,44,20680,662,42306
+745,Champlin-Effertz,9632 Londonderry Junction,SMA,LG,470,15,7050,422,53224
+746,Stehr-Schoen,32557 Merchant Center,SMA,SunPower,560,7,3920,756,60562
+747,Schneider-Nikolaus,01085 Amoth Circle,SMA,Jinko,560,16,8960,522,28919
+748,"Klocko, Rice and Collier",90469 Declaration Circle,Fronius,SunPower,560,20,11200,569,56503
+749,"Kerluke, Stanton and Hermiston",5342 Arapahoe Junction,SMA,Jinko,470,45,21150,689,86488
+750,Lindgren Group,65656 Maple Wood Street,Enphase,Jinko,470,43,20210,354,43546
+751,"Homenick, Zboncak and Crist",1207 Nobel Hill,Enphase,Jinko,560,19,10640,141,13220
+752,VonRueden Inc,30916 Prentice Way,SMA,Jinko,470,23,10810,743,27284
+753,Schmitt Inc,50143 Hermina Court,Enphase,Canadian Solar,470,13,6110,626,80029
+754,"Stoltenberg, Mayer and Leannon",483 Corben Terrace,SMA,SunPower,560,17,9520,140,10958
+755,"Herman, Fadel and Wilkinson",0 Brickson Park Street,Fronius,Jinko,470,47,22090,752,28403
+756,"Lemke, Beier and Johns",72649 Mosinee Plaza,Enphase,SunPower,560,18,10080,573,22840
+757,"Hagenes, Kemmer and Jast",39885 Kropf Point,Fronius,Jinko,560,30,16800,189,13138
+758,Mitchell LLC,50 Delaware Lane,Fronius,SunPower,560,47,26320,763,60853
+759,"Prosacco, Emard and Leffler",988 Katie Parkway,Enphase,SunPower,470,28,13160,599,99456
+760,Waelchi-DuBuque,84 Wayridge Trail,Enphase,Jinko,470,15,7050,487,83615
+761,"Moore, Bayer and Schultz",34 Redwing Drive,Fronius,Jinko,560,43,24080,124,26192
+762,Metz LLC,6309 Talmadge Point,Fronius,Canadian Solar,560,46,25760,461,96736
+763,Hessel Group,2 Mockingbird Junction,SMA,LG,560,36,20160,820,48040
+764,Goodwin and Sons,7 Hagan Street,SMA,SunPower,470,1,470,732,75977
+765,Bogan LLC,27 Quincy Point,SMA,LG,560,10,5600,685,54199
+766,Howe Group,7 Sycamore Plaza,Enphase,Canadian Solar,560,37,20720,86,93882
+767,"Zieme, Yundt and Dach",0 Briar Crest Trail,SMA,SunPower,470,3,1410,403,97704
+768,"Ernser, Rodriguez and Bernhard",33686 Warner Avenue,SMA,LG,560,41,22960,292,86073
+769,Legros and Sons,9045 High Crossing Hill,Enphase,LG,560,42,23520,497,5644
+770,"Langosh, Greenfelder and Swaniawski",24 South Lane,SMA,Canadian Solar,560,20,11200,671,7671
+771,"Prosacco, Lang and Crooks",0276 Carpenter Place,Enphase,Jinko,470,11,5170,248,47292
+772,Wunsch-Zulauf,56 Badeau Hill,Enphase,LG,470,19,8930,940,16066
+773,Johnston-Wehner,9947 Pepper Wood Junction,SMA,Canadian Solar,560,32,17920,308,62192
+774,Ankunding LLC,4961 Scofield Lane,Fronius,Jinko,560,30,16800,742,15338
+775,"Stroman, Bartell and Predovic",90790 Leroy Alley,SMA,SunPower,560,22,12320,387,47321
+776,Wiegand-Dare,7345 Luster Terrace,Enphase,Jinko,560,3,1680,694,73600
+777,Larson-Quitzon,31626 Valley Edge Lane,Fronius,Jinko,560,11,6160,272,41509
+778,Trantow-Christiansen,7 Old Gate Avenue,SMA,SunPower,470,3,1410,253,84707
+779,"McKenzie, Lockman and Klocko",5 Eliot Park,Enphase,Jinko,560,19,10640,402,37539
+780,Macejkovic-Corkery,68253 Prentice Hill,Fronius,LG,560,32,17920,901,5375
+781,Gibson LLC,5669 Dottie Park,Fronius,Jinko,560,23,12880,962,95900
+782,Kilback-Hansen,910 North Road,Enphase,LG,560,46,25760,186,35898
+783,Muller-Rowe,72 Towne Terrace,Enphase,SunPower,470,18,8460,908,62111
+784,"Mills, Parker and Brekke",643 Miller Parkway,Enphase,SunPower,470,35,16450,303,91431
+785,Kreiger LLC,59 Bluejay Center,Enphase,Jinko,560,33,18480,27,68822
+786,Wuckert Group,8 Union Lane,SMA,Jinko,470,1,470,358,61594
+787,Stark Inc,5338 Chive Plaza,SMA,Canadian Solar,470,2,940,931,48013
+788,"Hessel, Brakus and Rempel",8 Hagan Junction,Enphase,LG,560,19,10640,552,73411
+789,"Russel, Mitchell and Schowalter",71605 Mifflin Center,SMA,Canadian Solar,470,20,9400,584,94830
+790,Crona and Sons,251 Corscot Pass,Fronius,LG,560,31,17360,130,82374
+791,Nader-Jerde,71 Graceland Point,Fronius,Canadian Solar,560,21,11760,753,63700
+792,Runte-Bahringer,3437 Atwood Avenue,SMA,SunPower,560,12,6720,650,50797
+793,"Stoltenberg, Mohr and Kerluke",7493 Roth Point,SMA,LG,470,13,6110,818,73714
+794,Kertzmann-Hilll,7 Trailsway Crossing,SMA,Canadian Solar,560,20,11200,554,16581
+795,Gerhold Inc,233 Heffernan Parkway,SMA,LG,560,33,18480,246,57406
+796,Schoen-Berge,3 Doe Crossing Terrace,SMA,Canadian Solar,470,7,3290,993,89391
+797,Ledner-Daugherty,469 Sachs Way,SMA,Canadian Solar,560,19,10640,310,88980
+798,"Lemke, Hane and Paucek",2778 Sutteridge Center,Fronius,LG,470,44,20680,288,41767
+799,Mann Group,08 Florence Pass,Enphase,Canadian Solar,560,21,11760,937,20896
+800,"Hamill, Von and Wuckert",801 Northridge Crossing,Enphase,Jinko,560,13,7280,666,91753
+801,"Gibson, Dietrich and Prosacco",744 Little Fleur Plaza,Fronius,Canadian Solar,470,18,8460,852,79082
+802,Morissette-Reichert,8 Barby Drive,SMA,SunPower,560,36,20160,146,28689
+803,"Beatty, Marvin and Schumm",5 Dryden Road,Enphase,LG,560,43,24080,613,7374
+804,Robel-Cormier,69054 Pawling Avenue,Fronius,SunPower,560,7,3920,896,37658
+805,Emmerich Group,409 Sunnyside Hill,SMA,Jinko,470,32,15040,921,4735
+806,"Batz, Cummings and Lueilwitz",157 Melvin Crossing,SMA,SunPower,560,24,13440,49,71874
+807,Lynch-McDermott,99 Sunfield Street,SMA,SunPower,470,11,5170,213,77662
+808,Wehner and Sons,6 Mallard Center,Fronius,LG,470,30,14100,257,65787
+809,Hilpert Group,4087 Blaine Junction,Enphase,Canadian Solar,470,33,15510,862,31365
+810,Green Inc,78586 Vahlen Pass,Fronius,LG,470,1,470,505,37968
+811,Murphy Inc,3 Tony Avenue,SMA,SunPower,560,5,2800,115,58957
+812,"Lueilwitz, Watsica and Murazik",90298 Messerschmidt Terrace,SMA,LG,470,34,15980,34,81921
+813,Koepp-Howell,7 Mockingbird Junction,SMA,Jinko,470,14,6580,793,65834
+814,Gibson LLC,01 Pond Plaza,Fronius,Canadian Solar,560,8,4480,83,27433
+815,"Rempel, Stracke and Dickens",50 Mccormick Circle,SMA,SunPower,560,42,23520,832,22596
+816,Spinka and Sons,17163 Monica Terrace,SMA,Jinko,470,17,7990,189,71925
+817,Jones Group,0698 Kinsman Street,SMA,SunPower,560,35,19600,371,84521
+818,Kunze LLC,40 Straubel Point,Fronius,LG,560,43,24080,40,53598
+819,Schowalter-MacGyver,8 Truax Center,Enphase,Canadian Solar,470,37,17390,279,88501
+820,"Kshlerin, Klein and Cruickshank",507 Judy Center,Enphase,LG,470,27,12690,580,12501
+821,Cassin Inc,77 Pleasure Lane,Fronius,Canadian Solar,470,4,1880,253,85852
+822,Cummerata-Mraz,25038 Grover Circle,SMA,SunPower,560,28,15680,518,42123
+823,"Jaskolski, Treutel and Douglas",89 Northport Trail,Fronius,SunPower,470,19,8930,482,85649
+824,Schmitt-Rolfson,88095 Dovetail Alley,Fronius,Jinko,470,2,940,96,24532
+825,"Schmitt, Runte and Rosenbaum",9802 Eastlawn Road,SMA,Canadian Solar,560,7,3920,261,77308
+826,Kris LLC,2 Northland Road,Fronius,SunPower,470,7,3290,0,71594
+827,Fay-Muller,555 Towne Avenue,Fronius,Jinko,470,29,13630,866,55007
+828,Gleichner-Pfannerstill,4210 Mifflin Alley,Enphase,Canadian Solar,560,41,22960,198,82089
+829,"Mayer, Nicolas and Douglas",58 Chinook Parkway,Enphase,SunPower,560,50,28000,453,71809
+830,Spencer and Sons,2 Mcguire Plaza,Enphase,Canadian Solar,470,25,11750,357,2004
+831,Reinger Inc,39 Tennessee Plaza,Enphase,SunPower,470,45,21150,335,85756
+832,Bailey-Turner,08 Morning Lane,Fronius,Jinko,470,2,940,783,33364
+833,"Gusikowski, Williamson and Runolfsdottir",70799 Hanson Plaza,Fronius,LG,560,47,26320,531,7036
+834,"Lang, Hintz and Willms",09 Forest Dale Point,Fronius,Jinko,470,48,22560,408,69805
+835,Aufderhar and Sons,1200 Banding Way,Enphase,SunPower,470,11,5170,782,63430
+836,Herman-Bayer,37621 Novick Drive,Fronius,SunPower,470,24,11280,593,81139
+837,Gleason LLC,4941 Parkside Circle,Fronius,SunPower,470,21,9870,113,46941
+838,"Lynch, Green and VonRueden",41706 Petterle Junction,SMA,Jinko,560,12,6720,565,91429
+839,Windler Group,56 Sullivan Parkway,SMA,SunPower,470,23,10810,544,77235
+840,Bartell LLC,81524 Morrow Place,Enphase,SunPower,560,33,18480,455,78492
+841,Mosciski-Pacocha,18 Farmco Terrace,Fronius,LG,560,38,21280,945,87861
+842,Effertz and Sons,60560 Rowland Place,SMA,Jinko,470,24,11280,812,37694
+843,Hamill Group,58520 Dakota Parkway,Fronius,SunPower,470,24,11280,767,43612
+844,Reichert-Mante,2 Redwing Place,Enphase,Jinko,560,31,17360,267,53445
+845,"Rolfson, Goodwin and Harber",2068 Hooker Avenue,Enphase,SunPower,560,25,14000,14,46267
+846,"Ritchie, Berge and Mills",0 Roth Lane,Enphase,Canadian Solar,470,8,3760,733,66354
+847,Bechtelar-Cormier,14 Mallory Plaza,Enphase,Jinko,560,47,26320,938,75521
+848,Baumbach and Sons,3756 Stone Corner Crossing,SMA,Jinko,470,6,2820,897,11001
+849,Nikolaus-Morar,3932 Hayes Junction,Enphase,LG,470,46,21620,329,54765
+850,Flatley Group,2 Hoepker Circle,Fronius,Jinko,560,21,11760,314,41327
+851,"Abernathy, Zemlak and Moore",25 Grasskamp Pass,Fronius,LG,470,25,11750,332,72345
+852,"Howell, Homenick and Wisozk",602 Delaware Court,Enphase,SunPower,560,21,11760,101,76817
+853,Weissnat Inc,77265 Mccormick Crossing,SMA,Jinko,560,13,7280,791,33106
+854,Stokes and Sons,3 Mockingbird Center,Enphase,LG,470,33,15510,851,81897
+855,Okuneva and Sons,7 Lake View Way,Fronius,Canadian Solar,470,1,470,951,32206
+856,Crona and Sons,13309 Chive Circle,Enphase,SunPower,560,41,22960,66,65548
+857,"Tremblay, Cartwright and Sipes",6830 Riverside Avenue,SMA,LG,560,39,21840,356,46343
+858,Mayer and Sons,9 Blaine Trail,SMA,Canadian Solar,470,2,940,233,3171
+859,"Little, Prosacco and DuBuque",1 2nd Lane,SMA,SunPower,470,19,8930,144,30670
+860,Raynor and Sons,5 Charing Cross Avenue,Fronius,SunPower,560,4,2240,912,56667
+861,Miller Inc,78 South Junction,SMA,LG,560,40,22400,269,17960
+862,"Stehr, Walter and Rodriguez",16 Helena Circle,SMA,LG,560,32,17920,911,8766
+863,"Brown, Sporer and Moore",65085 Bluejay Road,Fronius,Canadian Solar,560,9,5040,112,50156
+864,Ritchie LLC,9319 Donald Lane,Enphase,SunPower,560,16,8960,986,66688
+865,Runolfsdottir-Strosin,00 Wayridge Alley,Fronius,Jinko,560,36,20160,913,45854
+866,Stracke-Gerhold,06103 Bay Court,Enphase,Canadian Solar,560,47,26320,50,62345
+867,Emard and Sons,61530 Blackbird Plaza,Enphase,LG,560,44,24640,3,26904
+868,Feeney Inc,26539 Rusk Place,Enphase,Jinko,470,30,14100,103,88954
+869,Pacocha-Wunsch,816 Bluejay Pass,SMA,SunPower,560,39,21840,896,48887
+870,Weber Inc,3 David Center,SMA,Canadian Solar,470,7,3290,513,63776
+871,Mills Inc,06 Oxford Hill,SMA,Canadian Solar,560,21,11760,257,73614
+872,Sporer Group,31 Harper Trail,SMA,LG,470,34,15980,921,42648
+873,Doyle-Fay,7 Northport Center,Enphase,SunPower,560,30,16800,82,25372
+874,"Considine, McDermott and Gottlieb",77321 Steensland Avenue,Fronius,Jinko,560,15,8400,857,78682
+875,Purdy LLC,67 Rutledge Circle,Enphase,SunPower,560,10,5600,915,92434
+876,Heidenreich-Grimes,6648 Talmadge Circle,Fronius,SunPower,470,43,20210,867,98118
+877,Friesen-Bahringer,2 Iowa Junction,Enphase,SunPower,470,38,17860,408,69604
+878,Torp and Sons,559 Declaration Point,SMA,LG,560,31,17360,16,4977
+879,"Gislason, Funk and Hyatt",927 Judy Place,Enphase,Jinko,470,48,22560,354,23392
+880,Conn-Skiles,8 Banding Point,SMA,Jinko,560,32,17920,329,57750
+881,Sauer LLC,0 Dennis Point,Fronius,Canadian Solar,470,20,9400,195,53701
+882,"Raynor, Ebert and Hayes",62 Mayfield Court,Fronius,SunPower,560,23,12880,830,57500
+883,"Aufderhar, O'Kon and Carter",755 2nd Pass,Fronius,Jinko,470,27,12690,789,19629
+884,Keebler LLC,8 Leroy Plaza,SMA,Jinko,470,49,23030,340,31646
+885,"Stroman, Kunze and Mertz",2 Hauk Crossing,SMA,Canadian Solar,470,41,19270,523,75132
+886,"Bode, Lindgren and Waelchi",9556 School Court,Fronius,Jinko,560,2,1120,280,65895
+887,Gislason-Nicolas,95 Ohio Crossing,Fronius,Jinko,470,32,15040,808,54521
+888,Sauer-Hilll,3230 Dryden Hill,Fronius,LG,470,48,22560,955,10789
+889,Wilderman and Sons,87 Annamark Place,Fronius,Canadian Solar,470,18,8460,933,64124
+890,Runolfsson-McKenzie,31203 Village Green Alley,Enphase,Canadian Solar,560,45,25200,142,84624
+891,Senger-Will,26599 Schurz Avenue,Enphase,LG,470,28,13160,652,22513
+892,Funk-Jenkins,82 Arizona Plaza,SMA,Jinko,560,43,24080,389,48990
+893,"Rogahn, Muller and Zemlak",3351 Laurel Hill,Enphase,LG,470,23,10810,466,73534
+894,Boyle Group,31009 Meadow Vale Lane,SMA,Canadian Solar,560,4,2240,89,17814
+895,"Raynor, Hills and Ward",5971 1st Pass,Enphase,LG,560,4,2240,233,52185
+896,Runolfsdottir and Sons,90210 Scoville Drive,Fronius,SunPower,470,9,4230,367,75000
+897,Schulist and Sons,76700 Fairfield Court,Fronius,Canadian Solar,560,30,16800,716,69401
+898,McGlynn-Abshire,040 Artisan Lane,SMA,Canadian Solar,470,3,1410,886,79862
+899,Adams LLC,5384 Raven Center,Fronius,Canadian Solar,560,19,10640,79,34071
+900,Hackett Group,2218 Sunnyside Road,Fronius,Canadian Solar,470,48,22560,882,36385
+901,Kutch LLC,3 Holmberg Center,Fronius,Canadian Solar,470,43,20210,509,66865
+902,Cassin-Larkin,3127 Onsgard Street,SMA,Jinko,470,28,13160,587,81749
+903,Ernser LLC,862 Southridge Pass,Fronius,Canadian Solar,560,45,25200,364,61631
+904,Cronin-Schroeder,51813 Killdeer Street,SMA,LG,470,18,8460,9,11340
+905,Breitenberg-Renner,29662 Dottie Pass,Fronius,Jinko,470,9,4230,773,34569
+906,"Konopelski, Boyle and Heller",93246 Sugar Court,SMA,SunPower,470,8,3760,622,54362
+907,Kihn-Bergnaum,5426 Fuller Court,SMA,LG,470,34,15980,392,51900
+908,Flatley-Grant,045 Brentwood Trail,Enphase,Canadian Solar,560,39,21840,686,8141
+909,Franecki and Sons,84 Eastwood Crossing,SMA,SunPower,560,46,25760,470,46543
+910,Dach-Lesch,84170 Lotheville Circle,SMA,Canadian Solar,470,40,18800,242,36912
+911,Witting-Tremblay,22 Blue Bill Park Lane,SMA,SunPower,560,29,16240,149,77458
+912,"Graham, Kiehn and Braun",68412 Bowman Plaza,Fronius,Jinko,560,9,5040,638,8296
+913,Runolfsdottir LLC,33 Sage Pass,Fronius,SunPower,470,49,23030,9,90172
+914,"Spinka, Doyle and Durgan",8095 Derek Plaza,Fronius,SunPower,560,46,25760,559,86263
+915,Stark Group,719 Merchant Trail,SMA,LG,560,13,7280,931,23387
+916,Zboncak-Hirthe,82035 Elka Court,Fronius,Canadian Solar,560,8,4480,228,5810
+917,Kuvalis Group,0618 Towne Center,SMA,Canadian Solar,470,37,17390,207,75043
+918,"Waelchi, Gleichner and Stamm",38 Sunbrook Center,Enphase,Canadian Solar,560,18,10080,883,33615
+919,Hermann-Rolfson,109 Oak Valley Place,Fronius,Jinko,560,40,22400,633,56646
+920,"Maggio, Vandervort and Swift",827 Pepper Wood Circle,SMA,SunPower,470,16,7520,1000,19621
+921,Lindgren-Ullrich,5 Gale Pass,Enphase,SunPower,560,26,14560,205,71336
+922,McGlynn and Sons,29370 Schiller Point,Fronius,SunPower,470,19,8930,245,83013
+923,Bogisich Inc,3490 Waubesa Circle,Enphase,LG,560,23,12880,49,48406
+924,Mante-Runolfsdottir,0 Granby Plaza,Fronius,Canadian Solar,470,0,0,28,29946
+925,"Bechtelar, Hayes and Kovacek",98602 Village Center,Enphase,LG,470,48,22560,835,19276
+926,"Kuhic, Effertz and Daugherty",40185 Fairview Place,SMA,Canadian Solar,470,19,8930,581,96214
+927,Bayer-Hermiston,60 Glacier Hill Junction,Fronius,SunPower,470,32,15040,361,47505
+928,"Roob, Gutmann and Monahan",1 Blaine Way,Enphase,Canadian Solar,560,32,17920,191,22444
+929,Turner Group,66186 Brentwood Terrace,Enphase,Canadian Solar,560,20,11200,130,81070
+930,"Hettinger, Weissnat and Abbott",33125 Melrose Terrace,SMA,Jinko,470,19,8930,147,65048
+931,Johns and Sons,4 Moland Court,Fronius,Jinko,470,15,7050,791,46763
+932,"Hauck, Franecki and Walter",1 Merchant Terrace,Enphase,Jinko,470,31,14570,324,82254
+933,Haag-Gleason,6 Armistice Avenue,Fronius,SunPower,560,23,12880,973,58405
+934,"Mosciski, Stiedemann and Conroy",019 Garrison Hill,SMA,LG,470,32,15040,65,52653
+935,Corwin Group,313 Talisman Pass,Fronius,Canadian Solar,470,4,1880,536,59164
+936,Sawayn-Strosin,60324 Colorado Circle,SMA,Jinko,470,41,19270,596,69873
+937,"Watsica, Kerluke and Muller",57 Stephen Terrace,Fronius,Jinko,560,18,10080,365,40425
+938,"Hintz, Fisher and Hyatt",0 Briar Crest Street,Enphase,Jinko,470,25,11750,541,25699
+939,"Pouros, Powlowski and Monahan",02220 New Castle Street,Enphase,Jinko,560,12,6720,288,89736
+940,Renner-Renner,3 Village Green Road,Fronius,SunPower,560,2,1120,560,34304
+941,Gorczany and Sons,556 Iowa Trail,Fronius,Canadian Solar,470,35,16450,329,13621
+942,Paucek and Sons,89 Hoffman Way,Enphase,Canadian Solar,560,32,17920,976,39242
+943,Champlin-Lehner,45644 Goodland Parkway,Enphase,Canadian Solar,560,13,7280,915,78348
+944,"Beahan, Runte and Lebsack",35 Norway Maple Hill,Fronius,LG,470,36,16920,499,4284
+945,"Ruecker, Kuhic and Ullrich",2 Mallard Center,Fronius,Jinko,470,45,21150,846,76397
+946,"Schamberger, Keeling and Ledner",15704 Mcbride Circle,Fronius,Jinko,560,6,3360,59,89342
+947,Cummings LLC,498 Glacier Hill Pass,SMA,Canadian Solar,470,31,14570,409,16618
+948,"Sauer, Parker and Jacobi",99655 Loeprich Circle,Fronius,Canadian Solar,560,38,21280,902,94344
+949,Beer-Weissnat,44472 Sullivan Street,Fronius,Canadian Solar,470,47,22090,648,21048
+950,Lind LLC,48783 Maple Road,Enphase,SunPower,470,4,1880,831,86712
+951,"Willms, Leuschke and Hills",7222 Grim Center,SMA,LG,470,48,22560,394,95137
+952,Jacobs-Feeney,563 Dixon Street,Fronius,SunPower,470,25,11750,264,86980
+953,Weissnat and Sons,21932 Rockefeller Avenue,Fronius,Canadian Solar,470,29,13630,874,84319
+954,"Nikolaus, Marvin and Harvey",2590 Sundown Court,SMA,Jinko,560,6,3360,709,58847
+955,Bahringer Inc,465 Sutherland Place,Enphase,SunPower,470,49,23030,552,45673
+956,Littel Inc,3 Prentice Drive,Enphase,Canadian Solar,470,21,9870,442,60398
+957,Tillman and Sons,1314 Sutherland Circle,Fronius,Canadian Solar,560,19,10640,391,30162
+958,Rice and Sons,75195 Graceland Street,Fronius,SunPower,560,21,11760,771,21542
+959,Kiehn-Auer,31473 Express Point,Enphase,LG,470,18,8460,598,29665
+960,Dach-Lehner,527 Mayfield Street,SMA,LG,560,29,16240,940,20238
+961,Ritchie-Hane,00437 Cambridge Park,Fronius,SunPower,470,17,7990,645,91210
+962,"Cole, Champlin and Littel",80088 Carberry Alley,SMA,LG,470,2,940,523,80501
+963,Cassin-Reichert,4208 Blaine Lane,SMA,Jinko,560,49,27440,407,79854
+964,Flatley and Sons,85735 Anthes Park,Enphase,SunPower,470,14,6580,285,8460
+965,Volkman-Monahan,1 Towne Place,SMA,LG,470,43,20210,139,5246
+966,"Wiza, Heaney and Murray",0 High Crossing Alley,Fronius,SunPower,560,46,25760,847,62157
+967,Anderson-Braun,00 Memorial Road,Enphase,Canadian Solar,470,29,13630,293,2813
+968,Cruickshank-Kovacek,6686 Elmside Plaza,SMA,LG,560,16,8960,766,37895
+969,Little LLC,328 Superior Junction,Fronius,Jinko,560,7,3920,521,67927
+970,Upton LLC,695 Hoard Court,Fronius,SunPower,560,9,5040,573,41668
+971,"McKenzie, Kerluke and Spinka",20000 La Follette Hill,SMA,LG,560,12,6720,448,91695
+972,Dibbert-Weimann,2003 Debra Road,Fronius,Canadian Solar,560,15,8400,406,89696
+973,Bergstrom-Langworth,93997 Forest Dale Circle,Fronius,SunPower,470,3,1410,395,96204
+974,Marvin LLC,058 Village Place,Enphase,Canadian Solar,470,25,11750,142,77217
+975,"Franecki, Schultz and O'Reilly",1 Browning Park,SMA,Canadian Solar,560,11,6160,879,25965
+976,"Hessel, Smitham and Mills",45073 Crescent Oaks Court,Enphase,SunPower,560,34,19040,983,32105
+977,Braun-Koelpin,912 Schiller Circle,Fronius,SunPower,560,14,7840,927,72725
+978,Emmerich-Cormier,3756 Sauthoff Center,SMA,Canadian Solar,560,2,1120,215,86234
+979,Schumm-Crist,8 Dexter Pass,SMA,SunPower,470,31,14570,691,67529
+980,Green LLC,72 Erie Parkway,Fronius,Canadian Solar,470,40,18800,311,14947
+981,"Hamill, Conn and Nicolas",593 Lakeland Crossing,Fronius,SunPower,470,45,21150,906,13932
+982,Jerde-DuBuque,642 Fisk Junction,Enphase,LG,470,45,21150,1,16924
+983,"Upton, Deckow and Bode",7764 Graedel Drive,SMA,Canadian Solar,470,39,18330,990,40129
+984,Smitham-Hamill,528 Monterey Parkway,Enphase,LG,560,13,7280,423,54259
+985,Quigley and Sons,517 Boyd Plaza,SMA,LG,560,31,17360,386,64223
+986,Schmitt and Sons,424 Larry Trail,Enphase,SunPower,470,36,16920,47,60213
+987,Dickinson-Okuneva,8074 Dapin Park,SMA,Canadian Solar,560,14,7840,970,29216
+988,Bosco-Hyatt,19684 Twin Pines Hill,Enphase,Jinko,470,42,19740,374,56569
+989,Rogahn LLC,45 Meadow Vale Hill,Enphase,LG,470,41,19270,986,48610
+990,Turcotte-Kulas,53702 Shelley Parkway,SMA,LG,560,12,6720,81,46334
+991,Hintz-Ratke,184 Memorial Court,Fronius,Jinko,560,26,14560,618,94878
+992,Cassin LLC,17452 Randy Alley,SMA,SunPower,560,17,9520,170,93364
+993,"Auer, Hansen and Armstrong",6 Dayton Trail,Fronius,LG,560,25,14000,784,38757
+994,"Greenholt, Terry and Mraz",7 Mockingbird Court,SMA,SunPower,560,47,26320,943,10400
+995,"Haag, Moen and Bergnaum",924 Fallview Park,SMA,SunPower,470,24,11280,654,8618
+996,Quigley LLC,001 2nd Point,Enphase,LG,470,17,7990,200,14304
+997,Russel and Sons,988 Schmedeman Pass,Enphase,LG,470,26,12220,482,90558
+998,Heaney and Sons,9 Aberg Center,SMA,Jinko,560,40,22400,478,11551
+999,"Murphy, Bradtke and Hintz",1 Kim Circle,Fronius,Canadian Solar,560,40,22400,138,65118
+1000,MacGyver Group,9 Bunting Pass,SMA,LG,560,26,14560,474,504
