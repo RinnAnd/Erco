@@ -9,17 +9,15 @@ interface ProjectTableProps {
 
 const ProjectTable: FC<ProjectTableProps> = ({ projects }) => {
 
-  const [modal, setModal] = useState(false);
-  const [visibleProject, setVisibleProject] = useState<Project>()
+  const [visibleProject, setVisibleProject] = useState<Project | null>(null)
   
   function showProject(project: Project) {
-    setModal(true)
     setVisibleProject({...project})
   }
 
   return (
     <section className="table_section">
-      {modal && visibleProject ? <SingleProject project={visibleProject}/> : <></>}
+      {visibleProject ? <SingleProject project={visibleProject} setter={setVisibleProject} /> : <></>}
       <div className="table_container">
         <table>
           <tr className="table_heads">
