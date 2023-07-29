@@ -28,7 +28,6 @@ const insertDataIntoTable = async (client, data) => {
 const selectProjects = async (client) => {
     const query = 'SELECT * FROM "Projects"'
     const res = await client.query(query);
-    console.log(res);
     return res.rows
 };
 
@@ -50,10 +49,9 @@ const insert = async (data) => {
 
 const select = async () => {
     try {
-        await execute(async (client) => {
+        return await execute(async (client) => {
             return await selectProjects(client);
         });
-        return true;
     } catch (error) {
         return false;
     }

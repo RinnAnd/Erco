@@ -1,4 +1,5 @@
 const express = require('express');
+const { cors } = require('./cors')
 const { init } = require('./database');
 const router = require('./routes')
 require('dotenv').config();
@@ -24,6 +25,7 @@ const port = process.env.PORT || 3000
 
 async function main() {
     await init(config.database);
+    app.use(cors)
     app.use(router);
     app.listen(port, () => {
         console.log(`Now listening on port ${port}`);

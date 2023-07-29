@@ -1,0 +1,40 @@
+.table_section {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 45rem;
+}
+
+.table_container {
+    max-height: 600px;
+    overflow: auto;
+    border: solid 1px gray;
+    border-radius: 10px;
+    width: fit-content;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.project_name:hover {
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+.table_heads th {
+    color: #6f6e6e;
+    font-size: 0.8rem;
+    width: 8rem;
+    position: sticky;
+    top: 0;
+    background-color: #dcfcdc;
+}
+
+.table_body th {
+    border: solid 1px #B9B9B9;
+    font-size: 0.7rem;
+    font-weight: 400;
+    background-color: #F5F5F5;
+}
