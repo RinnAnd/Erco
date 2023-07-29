@@ -3,6 +3,7 @@ import axios from "axios";
 import type { Data } from "./types";
 import ProjectTable from "./components/ProjectTable/ProjectTable";
 import Header from "./components/Header/Header";
+import Loader from "./components/Loader/Loader";
 
 function App() {
   const { data, isLoading } = useQuery({
@@ -13,7 +14,7 @@ function App() {
   });
 
   if (isLoading) {
-    return "Loading...";
+    return <Loader />
   }
 
   return (
