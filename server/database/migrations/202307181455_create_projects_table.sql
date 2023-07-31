@@ -1,5 +1,5 @@
 CREATE TABLE IF NOT EXISTS "Projects" (
-    system_id SERIAL PRIMARY KEY,
+    system_id INT PRIMARY KEY,
     system_name TEXT,
     location TEXT,
     inverter_brand TEXT,

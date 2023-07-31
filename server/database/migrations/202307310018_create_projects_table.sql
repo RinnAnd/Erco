@@ -1,3 +1,5 @@
+DROP TABLE "Projects";
+
 CREATE TABLE IF NOT EXISTS "Projects" (
     system_id SERIAL PRIMARY KEY,
     system_name TEXT,

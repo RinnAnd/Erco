@@ -1,0 +1,40 @@
+button {
+    background-color: #53AE32;
+    border: none;
+    width: fit-content;
+    padding: 0.8rem;
+    border-radius: 10px;
+    cursor: pointer;
+    color: #F5F5F5;
+    place-self: center;
+    margin-top: 1rem;
+}
+
+.form {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    transform: translate(50%, 50%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: solid 1px gray;
+    height: 25rem;
+    z-index: 10;
+    background-color: #F5F5F5;
+    border-radius: 10px;
+    width: 20rem;
+}
+
+form {    
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+input {
+    width: 5rem;
+}
