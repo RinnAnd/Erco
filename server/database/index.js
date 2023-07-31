@@ -25,6 +25,32 @@ const insertDataIntoTable = async (client, data) => {
     await client.query(query);
 };
 
+const createProject = async (client, data) => {
+    const query = `INSERT INTO "Projects" (
+            system_name, 
+            location, 
+            inverter_brand, 
+            panel_brand, 
+            panel_power,
+            panel_quantity,
+            installed_power,
+            current_generation, 
+            total_generation) 
+            VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)`;
+    const values = [
+        data.system_name,
+        data.location,
+        data.inverter_brand,
+        data.panel_brand,
+        data.panel_quantity,
+        data.installed_power,
+        data.panel_power,
+        data.current_generation,
+        data.total_generation,
+    ];
+    await client.query(query, values);
+};
+
 const selectProjects = async (client) => {
     const query = 'SELECT * FROM "Projects"'
     const res = await client.query(query);
@@ -35,6 +61,16 @@ const init = async (conf) => {
     config = conf;
     execute(migrate);
 };
+
+const create = async (data) => {
+    try {
+        return await execute(async (client) => {
+            return await createProject(client, data)
+        })
+    } catch (error) {
+        return false;
+    }
+}
 
 const insert = async (data) => {
     try {
@@ -61,4 +97,5 @@ module.exports = {
     init,
     insert,
     select,
+    create,
 };

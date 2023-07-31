@@ -8,16 +8,19 @@ interface ProjectTableProps {
 }
 
 const ProjectTable: FC<ProjectTableProps> = ({ projects }) => {
+  const [visibleProject, setVisibleProject] = useState<Project | null>(null);
 
-  const [visibleProject, setVisibleProject] = useState<Project | null>(null)
-  
   function showProject(project: Project) {
-    setVisibleProject({...project})
+    setVisibleProject({ ...project });
   }
 
   return (
     <section className="table_section">
-      {visibleProject ? <SingleProject project={visibleProject} setter={setVisibleProject} /> : <></>}
+      {visibleProject ? (
+        <SingleProject project={visibleProject} setter={setVisibleProject} />
+      ) : (
+        <></>
+      )}
       <div className="table_container">
         <table>
           <tr className="table_heads">
@@ -28,7 +31,9 @@ const ProjectTable: FC<ProjectTableProps> = ({ projects }) => {
           </tr>
           {projects?.map((prj) => (
             <tr className="table_body">
-              <th className="project_name" onClick={() => showProject(prj)}>{prj.system_name}</th>
+              <th className="project_name" onClick={() => showProject(prj)}>
+                {prj.system_name}
+              </th>
               <th>{prj.current_generation}</th>
               <th>{prj.total_generation}</th>
               <th>{prj.installed_power}</th>
