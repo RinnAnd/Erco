@@ -2,6 +2,7 @@
     width: 100%;
     display: flex;
     justify-content: center;
+    flex-direction: column;
     align-items: center;
     height: 45rem;
 }
@@ -12,6 +13,31 @@
     border: solid 1px gray;
     border-radius: 10px;
     width: fit-content;
+}
+
+.search_form {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 15rem;
+}
+
+.search_form button {
+    transform: translateY(-7px);
+    padding: 0.4rem 0.6rem;
+    border-radius: 0 5px 5px 0;
+}
+
+.search_form input {
+    height: 1.5rem;
+    width: 6rem;
+    border-radius: 5px 0 0 5px;
+    border: none;
+}
+
+.search_form input:focus {
+    outline: none;
 }
 
 table {

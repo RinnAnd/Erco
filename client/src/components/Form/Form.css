@@ -8,6 +8,11 @@ button {
     color: #F5F5F5;
     place-self: center;
     margin-top: 1rem;
+    transition: 0.4s;
+}
+
+button:hover {
+    background-color: #ABD130;
 }
 
 .form {
